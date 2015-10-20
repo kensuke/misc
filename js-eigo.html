@@ -1,0 +1,213 @@
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>全世界の英語教師へ v0.0.4</title>
+
+<script type="text/javascript">
+
+// 乱数生成
+function rand(max) {
+    return Math.floor(Math.random() * max);
+}
+
+// 配列交換
+function swap(i, j, words) {
+    var w = words[i];
+    words[i] = words[j];
+    words[j] = w;
+}
+
+// 交換実行
+function do_swap(words) {
+    var len = words.length;
+    for (var s = 0; s < len * len; s++) {
+        var l = rand(len);
+        var r = rand(len);
+        if (l == r) {
+            continue;
+        }
+        swap(l, r, words);
+    }
+}
+
+// 交換異値保証
+function differ_swap(words) {
+    var org = words.join();
+    for (var i = 0; i < 5; i++) { // とりあえずループ５回。回数根拠なし
+        if (org == words.join()) {
+            do_swap(words);
+        } else {
+            break;
+        }
+    }
+}
+
+var maruz = ["",
+    "①", "②", "③", "④", "⑤", "⑥", "⑦", "⑧", "⑨", "⑩",
+    "⑪", "⑫", "⑬", "⑭", "⑮", "⑯", "⑰", "⑱", "⑲", "⑳",
+    "㉑", "㉒", "㉓", "㉔", "㉕", "㉖", "㉗", "㉘", "㉙", "㉚",
+    "㉛", "㉜", "㉝", "㉞", "㉟", "㊱", "㊲", "㊳", "㊴", "㊵",
+    "㊶", "㊷", "㊸", "㊹", "㊺", "㊻", "㊼", "㊽", "㊾", "㊿"]
+
+// 丸数字変換
+function cnv(i) {
+    if (i< 0 || i>maruz.length) {
+        i = 0;
+    }
+    return maruz[i];
+}
+
+// 入力解析
+function analysis() {
+    var text = document.fm.ta_in.value;
+    document.fm.ta_out.value = "";
+
+    // 複数行を改行区切りで１文へ分割する
+    var lines = text.split(/\r\n|\r|\n/);
+    var idx = 1;
+    // 大文字小文字変換オプション：0 なにもしない、1 先頭のみ、2 全部
+    var islow = document.fm.r1.checked ? 0 : document.fm.r2.checked ? 1 : document.fm.r3.checked ? 2 : 0;
+
+    for (var i = 0; i < lines.length; i++) {
+        var line = lines[i];
+        if (islow == 2) {
+            line = line.toLowerCase();
+        }
+        if (document.fm.comma.checked) {
+            line = line.replace(/,/g, " , ");
+        }
+        if (document.fm.period.checked) {
+            line = line.replace(/\./g, "");
+        }
+
+        // １文を連続する空白区切りで単語へ分割する
+        var words = line.split(/\s+/);
+        if (words.length <= 1) {
+            continue;
+        }
+        if (islow == 1) {
+            words[0] = words[0].toLowerCase();
+        }
+        differ_swap(words);
+
+        for (var j = 0; j < words.length; j++) {
+            if (words[j] == "i") {
+                words[j] = "I";
+            }
+            if (document.fm.number.checked) {
+                words[j] = cnv(j+1) + words[j];
+            }
+        }
+        var comb = document.fm.slash.checked ? " / " : " ";
+        line = words.join(comb);
+        document.fm.ta_out.value += (idx++) + ". " + line + "\n"
+    }
+}
+
+// メイン
+function main() {
+    analysis();
+}
+
+// リセット
+function reseto() {
+    document.fm.ta_in.value = "";
+    document.fm.ta_out.value = "";
+}
+
+// サンプル
+function sample() {
+    document.fm.ta_in.value = "I have a pen." + "\n";
+    document.fm.ta_in.value += "Do you have a pen ?" + "\n";
+    document.fm.ta_in.value += "The pen, it's my own pencil." + "\n";
+}
+
+</script>
+
+</head>
+
+<body>
+
+<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/XX) v0.0.4
+
+<hr />
+
+<form name="fm">
+スペース区切りの英文を入力。１文の区切りは改行で。<br />
+<textarea name="ta_in" rows="20" cols="100">
+I have a pen.
+Do you have a pen ?
+The pen, it's my own pencil.
+</textarea><br />
+<input type="checkbox" id="c1" name="slash"  checked="checked" accesskey="s" /><label for="c1">スラッシュ区切り（S）</label><br />
+<input type="checkbox" id="c2" name="number" checked="checked" accesskey="m" /><label for="c2">丸数字付与（５０単語まで）（M）</label><br />
+<!--
+<input type="checkbox" id="c3" name="lower"  checked="checked" accesskey="l" /><label for="c3">大文字→小文字変換（先頭バレ防止）（L）</label><br />
+-->
+<input type="radio" id="r1" name="RadioGroup1" accesskey="j" /><label for="r1">なにもしない（J）</label>&nbsp;&nbsp;
+<input type="radio" id="r2" name="RadioGroup1" accesskey="k" checked="checked" /><label for="r2">先頭のみ変換する（K）</label>&nbsp;&nbsp;
+<input type="radio" id="r3" name="RadioGroup1" accesskey="l" /><label for="r3">全部変換する（L）</label>&nbsp;&nbsp;&nbsp;&nbsp;大文字→小文字変換（先頭バレ防止）<br />
+<input type="checkbox" id="c4" name="comma"  checked="checked" accesskey="c" /><label for="c4">[,]を選択肢として独立させる（文の切れ目バレ防止）（C）</label><br />
+<input type="checkbox" id="c5" name="period" checked="checked" accesskey="p" /><label for="c5">[.]削除（文末バレ防止）（P）</label><br />
+<input type="button" value="並び替え！（X）" onclick="main()" accesskey="x" />
+<input type="button" value="リセット（R）" onclick="reseto()" accesskey="r" />
+<input type="button" value="サンプル（Y）" onclick="sample()" accesskey="y" />
+<br />
+<textarea name="ta_out" rows="20" cols="100">
+</textarea>
+</form>
+
+<hr />
+
+更新履歴：
+<ol>
+ <li>2015/10/18 11時 - v0.0.1 - とりあえずアップ。動作確認はLinuxのChromeのみ。</li>
+ <li>2015/10/18 15時 - v0.0.2 - 並び替え保証版</li>
+ <li>2015/10/18 20時 - v0.0.3 - 大文字小文字変換、カンマ、ピリオドオプション追加</li>
+ <li>2015/10/XX X時 - v0.0.4 - 各種環境で動作確認、ユーザビリティ・パフォーマンス改善</li>
+</ol>
+<br />
+<br />
+動作確認：
+<ul>
+ <li>Android 1.6（IS01） - 標準ブラウザ</li>
+ <li>Android 2.3（Galaxy NOTE) - OperaMini　並び替え！するたびに、リロード発生？？ miniだからかな。</li>
+ <li>Android 4.4（Galaxy S4) - Chrome</li>
+ <li>Android 5.1（Nexus 7 2012) - Chrome</li> 
+ <li>Android 6.0（Nexus 9) - Chrome</li>
+ <li>iOS6（iPod touch) - Chrome, Safari</li>
+ <li>DSLite - Opera（カセット）　DSiよりもさっくり動く</li>
+ <li>DSi - Opera　緩慢な動作。非推奨</li>
+ <li>DSiLL - Opera　DSiとほぼ同様。緩慢な動作。非推奨</li>
+ <li>3DS - NetFront Browser NX v1.0　DSiとは異なり、それなりに動く</li>
+ <li>3DSLL - NetFront Browser NX v1.0　所持任天堂携帯機で最も軽快に動く</li>
+ <li>psp - </li>
+ <li>Raspbian - ブラウザ（Raspberry Pi1 + 4インチタッチパネル）　意外にイケる。Pi2だともっとイケるはず</li> 
+ <li>Mac OS X 10.7（Mac mini） - Chrome, <b><u>Firefox</u></b>, Opera, Safari</li>
+ <li>Ubuntu 12.04（Linuxノート） - Chrome</li>
+ <li><s>Windows CE 3.01（Mobile Gear MC/R730） - Pocket IE 3.01</s>　PIEではJavaScriptは動かないっぽいです</li>
+ <li>Windows XP（XPノート） - Chrome、IE</li>
+ <li>Windows 7（仮想環境 on Mac mini） - Chrome、IE8</li>
+ <li>Windows 8（中華タブ） - Chrome、IE</li>
+</ul>
+いろいろ試した中では、MacのFirefoxが一番見やすいようだった（単にフォントの設定だと思うけど）。<br />
+<br />
+<br />
+メディア掲載：
+<ul>
+ <li><a href="http://internet.watch.impress.co.jp/docs/yajiuma/20151019_726212.html">英語の試験問題を作るのにこんなサービスあればいいのに→爆速で誕生して投稿者感激</a>（やじうまWatch）</li>
+</ul>
+他、多数。<br />
+<br />
+<br />
+<a href="http://anond.hatelabo.jp/20151018103514">サポート掲示板</a>
+
+<hr />
+
+<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/XX) v0.0.4
+
+</body>
+
+</html>
