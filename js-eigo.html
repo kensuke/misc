@@ -72,6 +72,18 @@ function analysis() {
 
     for (var i = 0; i < lines.length; i++) {
         var line = lines[i];
+        // 冠詞
+        if (document.fm.aanthe.checked) {
+            if (line.split(/\s+/).length <= 1) {
+                continue;
+            }
+            line = " " + line;
+            line = line.replace(/\sa\s|\san\s|\sthe\s/ig, " (   ) ");
+            document.fm.ta_out.value += (idx++) + "." + line + "\n"
+            continue;
+        }
+
+        // 各種オプション
         if (islow == 2) {
             line = line.toLowerCase();
         }
@@ -82,7 +94,7 @@ function analysis() {
             line = line.replace(/\./g, "");
         }
 
-        // １文を連続する空白区切りで単語へ分割する
+        // １文を連続する空白区切りで単語へ分割して、シャッフル〜
         var words = line.split(/\s+/);
         if (words.length <= 1) {
             continue;
@@ -119,9 +131,9 @@ function reseto() {
 
 // サンプル
 function sample() {
-    document.fm.ta_in.value = "I have a pen." + "\n";
+    document.fm.ta_in.value = "I have an apple." + "\n";
     document.fm.ta_in.value += "Do you have a pen ?" + "\n";
-    document.fm.ta_in.value += "The pen, it's my own pencil." + "\n";
+    document.fm.ta_in.value += "The pen, it's my own U!S!A! pencil." + "\n";
 }
 
 </script>
@@ -130,16 +142,16 @@ function sample() {
 
 <body>
 
-<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/XX) v0.0.4
+<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/21) v0.0.4
 
 <hr />
 
 <form name="fm">
 スペース区切りの英文を入力。１文の区切りは改行で。<br />
 <textarea name="ta_in" rows="20" cols="100">
-I have a pen.
+I have an apple.
 Do you have a pen ?
-The pen, it's my own pencil.
+The pen, it's my own U!S!A! pencil.
 </textarea><br />
 <input type="checkbox" id="c1" name="slash"  checked="checked" accesskey="s" /><label for="c1">スラッシュ区切り（S）</label><br />
 <input type="checkbox" id="c2" name="number" checked="checked" accesskey="m" /><label for="c2">丸数字付与（５０単語まで）（M）</label><br />
@@ -151,6 +163,7 @@ The pen, it's my own pencil.
 <input type="radio" id="r3" name="RadioGroup1" accesskey="l" /><label for="r3">全部変換する（L）</label>&nbsp;&nbsp;&nbsp;&nbsp;大文字→小文字変換（先頭バレ防止）<br />
 <input type="checkbox" id="c4" name="comma"  checked="checked" accesskey="c" /><label for="c4">[,]を選択肢として独立させる（文の切れ目バレ防止）（C）</label><br />
 <input type="checkbox" id="c5" name="period" checked="checked" accesskey="p" /><label for="c5">[.]削除（文末バレ防止）（P）</label><br />
+<input type="checkbox" id="c6" name="aanthe" accesskey="h" /><label for="c6">並び替えないで、a / an / theを隠す（H）　ここがONの場合は↑のオプション全部無効</label><br />
 <input type="button" value="並び替え！（X）" onclick="main()" accesskey="x" />
 <input type="button" value="リセット（R）" onclick="reseto()" accesskey="r" />
 <input type="button" value="サンプル（Y）" onclick="sample()" accesskey="y" />
@@ -161,15 +174,33 @@ The pen, it's my own pencil.
 
 <hr />
 
+<br />
+リンク：
+<ul>
+ <li><a href="https://github.com/kensuke/misc/blob/master/js-eigo.html">github</a>　ＯＳＳ化を望む声があがっていたので、ＨＴＭＬファイルをまるごとアップ。</li>
+ <li><a href="http://anond.hatelabo.jp/20151018103514">サポート掲示板</a>（※要はてなアカウント）</li>
+</ul>
+<br />
+<br />
+
+ヒント：
+<ul>
+ <li>ＨＴＭＬファイルを保存すればローカル・オフライン・スタバで動く。</li>
+</ul>
+<br />
+<br />
+
 更新履歴：
 <ol>
  <li>2015/10/18 11時 - v0.0.1 - とりあえずアップ。動作確認はLinuxのChromeのみ。</li>
  <li>2015/10/18 15時 - v0.0.2 - 並び替え保証版</li>
  <li>2015/10/18 20時 - v0.0.3 - 大文字小文字変換、カンマ、ピリオドオプション追加</li>
- <li>2015/10/XX X時 - v0.0.4 - 各種環境で動作確認、ユーザビリティ・パフォーマンス改善</li>
+ <li>2015/10/21 19時 - v0.0.4 - 冠詞オプション追加、OSS？化、各種環境で動作確認、ユーザビリティ・パフォーマンス改善</li>
+ <ul><li>調子にのって、コードをちょっと動かしすぎた・・きらいあり。</li></ul> 
 </ol>
 <br />
 <br />
+
 動作確認：
 <ul>
  <li>Android 1.6（IS01） - 標準ブラウザ</li>
@@ -178,35 +209,36 @@ The pen, it's my own pencil.
  <li>Android 5.1（Nexus 7 2012) - Chrome</li> 
  <li>Android 6.0（Nexus 9) - Chrome</li>
  <li>iOS6（iPod touch) - Chrome, Safari</li>
- <li>DSLite - Opera（カセット）　DSiよりもさっくり動く</li>
+ <li>DSLite - Opera（カセット）　後発のDSiよりもむしろさっくり動く</li>
  <li>DSi - Opera　緩慢な動作。非推奨</li>
  <li>DSiLL - Opera　DSiとほぼ同様。緩慢な動作。非推奨</li>
  <li>3DS - NetFront Browser NX v1.0　DSiとは異なり、それなりに動く</li>
  <li>3DSLL - NetFront Browser NX v1.0　所持任天堂携帯機で最も軽快に動く</li>
- <li>psp - </li>
+ <li><s>PSP-1000（fw 1.5） - ブラウザ・・・入ってなかった・・・</s>　そうだっけか</li>
+ <li>PSP go - NetFront Browser　DSiよりは動くが、操作しにくい</li>
  <li>Raspbian - ブラウザ（Raspberry Pi1 + 4インチタッチパネル）　意外にイケる。Pi2だともっとイケるはず</li> 
  <li>Mac OS X 10.7（Mac mini） - Chrome, <b><u>Firefox</u></b>, Opera, Safari</li>
- <li>Ubuntu 12.04（Linuxノート） - Chrome</li>
+ <li><b><i>Ubuntu 12.04（Linuxノート） - Chrome</i></b></li>
  <li><s>Windows CE 3.01（Mobile Gear MC/R730） - Pocket IE 3.01</s>　PIEではJavaScriptは動かないっぽいです</li>
- <li>Windows XP（XPノート） - Chrome、IE</li>
+ <li><s>Windows 2000（2000ノート）</s>　別のHDDにまだインストール状態で残ってると思うけど、別HDDどこいったかな</li>
+ <li>Windows XP（XPノート） - Chrome、Firefox、IE8、Opera</li>
  <li>Windows 7（仮想環境 on Mac mini） - Chrome、IE8</li>
- <li>Windows 8（中華タブ） - Chrome、IE</li>
+ <li>Windows 8（中華タブ） - Chrome、IE11</li>
 </ul>
 いろいろ試した中では、MacのFirefoxが一番見やすいようだった（単にフォントの設定だと思うけど）。<br />
+Linux + Chromeがメイン環境なので「Windowsでうごかない〜ん」があれば申し訳ありません。<br />
 <br />
 <br />
+
 メディア掲載：
 <ul>
  <li><a href="http://internet.watch.impress.co.jp/docs/yajiuma/20151019_726212.html">英語の試験問題を作るのにこんなサービスあればいいのに→爆速で誕生して投稿者感激</a>（やじうまWatch）</li>
 </ul>
 他、多数。<br />
-<br />
-<br />
-<a href="http://anond.hatelabo.jp/20151018103514">サポート掲示板</a>
 
 <hr />
 
-<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/XX) v0.0.4
+<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/21) v0.0.4
 
 </body>
 
