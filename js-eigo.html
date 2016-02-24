@@ -3,7 +3,7 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<title>全世界の英語教師へ v0.0.4</title>
+<title>全世界の英語教師へ v0.0.5</title>
 
 <script type="text/javascript">
 
@@ -52,11 +52,23 @@ var maruz = ["",
     "㊶", "㊷", "㊸", "㊹", "㊺", "㊻", "㊼", "㊽", "㊾", "㊿"]
 
 // 丸数字変換
-function cnv(i) {
+function n_to_maru(i) {
     if (i< 0 || i>maruz.length) {
         i = 0;
     }
     return maruz[i];
+}
+
+// 丸数字付与
+function cnv(words) {
+    for (var i = 0; i < words.length; i++) {
+        if (words[i] == "i") {
+            words[i] = "I";
+        }
+        if (document.fm.number.checked) {
+            words[i] = n_to_maru(i+1) + words[i];
+        }
+    }
 }
 
 // 入力解析
@@ -81,7 +93,7 @@ function analysis() {
             line = line.replace(/\sa\s|\san\s|\sthe\s/ig, " (   ) ");
             document.fm.ta_out.value += (idx++) + "." + line + "\n"
             continue;
-        }
+        } // 冠詞オプション ON の場合は、以降の処理はしない
 
         // 各種オプション
         if (islow == 2) {
@@ -102,18 +114,35 @@ function analysis() {
         if (islow == 1) {
             words[0] = words[0].toLowerCase();
         }
-        differ_swap(words);
 
-        for (var j = 0; j < words.length; j++) {
-            if (words[j] == "i") {
-                words[j] = "I";
+        // (words...)を含む場合
+        var subwords = line.match(/\(.*?\)/ig);
+        if (subwords && subwords.length >= 1) {
+            // ()内の単語を並び替え
+            for (var k = 0; k < subwords.length; k++) {
+                var sws = subwords[k].replace(/[()]/g, "").split(/\s+/); // ()を除去して、スペースで区切り
+                differ_swap(sws);
+                cnv(sws);
+
+                // 単語区切り／付与
+                var comb = document.fm.slash.checked ? " / " : " ";
+                subwords[k] = "【" + sws.join(comb) + "】";
             }
-            if (document.fm.number.checked) {
-                words[j] = cnv(j+1) + words[j];
+            for (var k = 0; k < subwords.length; k++) {
+                line = line.replace(/\(.*?\)/i, subwords[k]); // 前方の()を順次変換
             }
+            line = line.replace(/【/g, "("); //【 -> ( 戻し
+            line = line.replace(/】/g, ")"); // 】-> ) 戻し
+        } else {
+            differ_swap(words);
+            cnv(words);
+
+            // 単語区切り／付与
+            var comb = document.fm.slash.checked ? " / " : " ";
+            line = words.join(comb);
         }
-        var comb = document.fm.slash.checked ? " / " : " ";
-        line = words.join(comb);
+
+        // 出力
         document.fm.ta_out.value += (idx++) + ". " + line + "\n"
     }
 }
@@ -134,6 +163,7 @@ function sample() {
     document.fm.ta_in.value = "I have an apple." + "\n";
     document.fm.ta_in.value += "Do you have a pen ?" + "\n";
     document.fm.ta_in.value += "The pen, it's my own U!S!A! pencil." + "\n";
+    document.fm.ta_in.value += "I (love the dog) which (is big and) fluffy." + "\n";
 }
 
 </script>
@@ -142,7 +172,7 @@ function sample() {
 
 <body>
 
-<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/21) v0.0.4
+<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2016/02/25) v0.0.5
 
 <hr />
 
@@ -152,6 +182,7 @@ function sample() {
 I have an apple.
 Do you have a pen ?
 The pen, it's my own U!S!A! pencil.
+I (love the dog) which (is big and) fluffy.
 </textarea><br />
 <input type="checkbox" id="c1" name="slash"  checked="checked" accesskey="s" /><label for="c1">スラッシュ区切り（S）</label><br />
 <input type="checkbox" id="c2" name="number" checked="checked" accesskey="m" /><label for="c2">丸数字付与（５０単語まで）（M）</label><br />
@@ -195,8 +226,10 @@ The pen, it's my own U!S!A! pencil.
  <li>2015/10/18 11時 - v0.0.1 - とりあえずアップ。動作確認はLinuxのChromeのみ。</li>
  <li>2015/10/18 15時 - v0.0.2 - 並び替え保証版</li>
  <li>2015/10/18 20時 - v0.0.3 - 大文字小文字変換、カンマ、ピリオドオプション追加</li>
- <li>2015/10/21 19時 - v0.0.4 - 冠詞オプション追加、OSS？化、各種環境で動作確認、ユーザビリティ・パフォーマンス改善</li>
+ <li>2015/10/21 19時 - <a href="js-eigo_v004.html">v0.0.4</a> - 冠詞オプション追加、OSS？化、各種環境で動作確認、ユーザビリティ・パフォーマンス改善</li>
  <ul><li>調子にのって、コードをちょっと動かしすぎた・・きらいあり。</li></ul> 
+ <li>2016/02/25 01時 - v0.0.5 - ()内のみ並び替え。</li>
+ <ul><li>それなりに動くとは思う・・、思う。</li></ul> 
 </ol>
 <br />
 <br />
@@ -238,7 +271,7 @@ Linux + Chromeがメイン環境なので「Windowsでうごかない〜ん」�
 
 <hr />
 
-<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2015/10/21) v0.0.4
+<a href="../index.html">３１０ちゃんねる</a> &gt;&gt; 英語語順並び替えマシーン(2016/02/25) v0.0.5
 
 </body>
 
