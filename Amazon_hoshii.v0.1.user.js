@@ -1,9 +1,10 @@
 // ==UserScript==
 // @name         Amazon ほしい物リスト 合計金額
 // @namespace    http://www.geocities.jp/s107ken/
-// @version      0.1
+// @version      0.2
 // @description  標準価格と最低価格を算出。とりあえず、jpのみ。
 // @author       Kensuke Sato / 佐藤 賢輔
+// @match        https://www.amazon.co.jp/hz/wishlist/*
 // @match        http://www.amazon.co.jp/gp/registry/wishlist/*
 // @match        https://www.amazon.co.jp/gp/registry/wishlist/*
 // @grant        none
@@ -53,6 +54,7 @@
     var ama = 0;
     var ama_total = 0;
     var ama_list = document.getElementsByClassName('a-size-base a-color-price a-text-bold');
+    ama_list = document.getElementsByClassName('a-price-whole');
 
     var shop = 0;
     var shop_total = 0;
