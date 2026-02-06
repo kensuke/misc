@@ -1,0 +1,239 @@
+<html>
+
+<!--
+更新履歴：
+2026/02/03 14 - 条文のみ
+2026/02/03 18 - 冊子化ｗ
+2026/02/04 13 - 微修正（カーニング）、道交法Revリスト、デバッグ枠（印刷確認）
+2026/02/05 15 - テーブル１００％化、ページ番号追加
+微修正（パディング）、ＱＲコードｗ
+
+ＴｏＤｏ：
+レスポンシブデザインｗ 印刷不要！？ｗ
+-->
+
+<head>
+<!-- HTML/CSSとは？初心者向けにHTMLとCSSの基本を解説 https://www.bold.ne.jp/engineer-club/html-css -->
+<style type="text/css">
+
+table { margin: auto; width: 100%; height: 100%; } /* html･CSSで表テーブル(table)を中央寄せ(center)にする方法 https://csshtml.work/table-center/ */
+
+td { width: 25%;
+     vertical-align: top; /* text-alignが初心者でもわかる！合わせて知りたい知識とは？ https://udemy.benesse.co.jp/design/web-design/text-align.html */
+     padding: 10;         /* CSSのmarginとは？paddingとは？余白の指定方法まとめ https://saruwakakun.com/html-css/basic/margin-padding*/
+ }
+
+tr.rev  { transform: rotate(180deg); } /* CSSで要素を上下左右反転させる方法【背景画像だけ反転も解説】 https://junpei-sugiyama.com/transform-scale-inversion/ */
+
+tr.pn   { text-align: center; padding: 0; } /* ページ番号 */
+
+.mid  { text-align: center; vertical-align: middle; } /* ＱＲコードｗ */
+
+@page { size: A4 landscape; margin: 0; }  /* 印刷用の WEB ページを作成する https://qiita.com/kerupani129/items/e7f0d8800ec886f81029 */
+/*
+body { box-sizing: border-box;
+       width: 210mm;
+       height: 297mm;
+       margin: 0;
+}
+*/
+</style>
+</head>
+
+<body>
+<table>
+<!--
+<table border=1>
+--><!-- デバッグ -->
+ <tr>
+<!-- １ -->
+  <td>
+<b>（普通自転車の歩道通行）</b><br />
+<br />
+<b>第六十三条の四</b>　普通自転車は、<br />
+次に掲げるときは、第十七条<br />
+第一項の規定にかかわらず、<br />
+歩道を通行することができる。<br />
+<br />
+ただし、警察官等が歩行者の<br />
+安全を確保するため必要が<br />
+あると認めて当該歩道を通行<br />
+してはならない旨を指示した<br />
+ときは、この限りでない。<br /><!-- １ページ１２行？ -->
+  </td>
+
+<!-- ２ -->
+  <td>
+<b>一</b>　道路標識等により<br />
+　普通自転車が当該歩道を<br />
+　通行することができる<br />
+　こととされているとき。<br />
+<br />
+<!-- 自転車歩行者道 https://ja.wikipedia.org/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%AD%A9%E8%A1%8C%E8%80%85%E9%81%93 -->
+<img src=Japan_road_sign_325-3.svg width=180><!-- HTML5でのSVGファイル操作のおさらい https://qiita.com/ka215/items/f9834dca40bb3d7e9c8b -->
+  </td>
+
+<!-- ３ -->
+  <td>
+<b>二</b>　当該普通自転車の運転者が、<br />
+　児童、幼児その他の普通自転車<br />
+　により車道を通行することが危<br />
+　険であると認められるものとし<br />
+　て政令で定める者であるとき。<br />
+<br />
+<b>三</b>　前二号に掲げるもののほか、<br />
+　車道又は交通の状況に照らして<br />
+　当該普通自転車の通行の安全を<br />
+　確保するため当該普通自転車が<br />
+　歩道を通行することがやむを<br />
+　得ないと認められるとき。<br />
+  </td>
+
+
+
+
+
+
+
+
+<!-- ４ -->
+  <td>
+<b>２</b>　前項の場合において、普通<br />
+　自転車は、当該歩道の中央から<br />
+　車道寄りの部分（道路標識等に<br />
+　より普通自転車が通行すべき部<br />
+　分として指定された部分（以下<br />
+　この項において「普通自転車通<br />
+　行指定部分」という。）がある<br />
+　ときは、当該普通自転車通行指<br />
+　定部分）を徐行しなければなら<br />
+　ず、また、普通自転車の進行が<br />
+　歩行者の通行を妨げることとな<br />
+　るときは、一時停止しなければ<br /><!-- １２行 -->
+  </td>
+
+ </tr>
+
+<!-- ページ番号追加ｗ -->
+<tr class=pn>
+<td>１</td>
+<td>２</td>
+<td>３</td>
+<td>４</td>
+</tr>
+
+<tr class="rev pn">
+<td>５</td>
+<td>６</td>
+<td>７</td>
+<td>Ver 2026/2/5</td>
+</tr>
+
+<!-- 逆向き！ -->
+ <tr class="rev">
+
+<!-- ５ -->
+  <td>
+　ならない。ただし、普通自転車<br />
+　通行指定部分については、当該<br />
+　普通自転車通行指定部分を通行<br />
+　し、又は通行しようとする歩行<br />
+　者がないときは、歩道の状況に<br />
+　応じた安全な速度と方法で進行<br />
+　することができる。<br />
+<br />
+（罰則　第二項については<br />
+　第百二十一条第一項第八号）<br />
+  </td>
+
+<!-- ６ -->
+  <td>
+<b><font size=+1>道路交通法</font></b><br /><font size=-1>（昭和三十五年法律第百五号）</font><br />
+<br />
+令和7年6月 1日施行<br /><font size=-1> （令和四年法律第六十八号）</font><br />
+令和8年4月 1日施行<br /><font size=-1> （令和六年法律第三十四号）</font><br />
+令和8年5月21日施行<br /><font size=-1> （令和五年法律第六十三号）</font><br />
+令和8年6月14日施行<br /><font size=-1> （令和六年法律第五十九号）</font><br />
+  </td>
+
+<!-- ７ -->
+  <td>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br /><!-- １２行 -->
+  </td>
+
+<!-- ８ -->
+  <td class=mid>
+<pre>
+■□□□□□□■
+□□□□□□□□
+□□□□□□□□
+□□■□□□□□
+□□□□□田□□
+□□□□□□□□
+□□□□■□□□
+■□□□□□□□
+</pre>
+  </td>
+
+ </tr>
+
+</table>
+
+</body>
+</html>
+
+
+<!--
+QRコードのしくみ https://www.keyence.co.jp/ss/products/autoid/codereader/basic2d_qr.jsp
+ｗ
+
+┏━┓　　　┏━┓
+┃■┃　　　┃■┃
+┗━┛　　　┗━┛
+・・　　　・・
+　　・・　
+・・
+　　　　　　
+┏━┓　　　田
+┃■┃
+┗━┛
+
+
+■■■■■■■　　　　　　　　　　　■■■■■■■
+■　　　　　■　　　　　　　　　　　■　　　　　■
+■　■■■　■　　　　　　　　　　　■　■■■　■
+■　■■■　■　　　　　　　　　　　■　■■■　■
+■　■■■　■　　　　　　　　　　　■　■■■　■
+■　　　　　■　　　　　　　　　　　■　　　　　■
+■■■■■■■　■　■　■　■　■　■■■■■■■
+
+　　　　　　■
+
+　　　　　　■
+
+　　　　　　■
+　　　　　　　　　　　　　　
+　　　　　　■
+
+　　　　　　■　　　　　　　　　■■■■■
+　　　　　　　　　　　　　　　　■　　　■
+■■■■■■■　　　　　　　　　■　■　■
+■　　　　　■　　　　　　　　　■　　　■
+■　■■■　■　　　　　　　　　■■■■■
+■　■■■　■
+■　■■■　■　　　　　　　　　　　　　　　　■
+■　　　　　■　　　　　　　　　　　　　　　　
+■■■■■■■
+
+-->
