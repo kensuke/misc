@@ -7,15 +7,18 @@
 ほしいものリスト リスト内合計金額
 
 
+
 ## 2026/02 - 自転車の歩道走行
 bicycles_on_sidewalks.html
 
 
+
 ## 2015/10 - js-eigo
-<s>http://www.geocities.jp/s107ken/prog/js-eigo.html</s>
+ <s>http://www.geocities.jp/s107ken/prog/js-eigo.html</s>
 https://s107ken.web.fc2.com/prog/js-eigo.html
 
 See also: http://anond.hatelabo.jp/20151018103514
+
 
 
 ## 2019/12 - cron next execution
