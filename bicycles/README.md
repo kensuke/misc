@@ -5,8 +5,8 @@ URL: http://kensuke.github.io/misc/bicycles/
 <br />
 
 ファイル構成：
-- [_on_sidewalks.html] ルールブック
-- [_on_sidewalks.pdf] 印刷用
+- [ルールブック](_on_sidewalks.html) 第六十三条の四を抜粋したもの
+- [印刷用PDF](_on_sidewalks.pdf)
 <br />
 
 - - -
