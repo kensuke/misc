@@ -6,14 +6,36 @@
   ・な～～んかMarkdownうまくいかない印象なんだが・・
 -->
 URL: http://kensuke.github.io/misc/bicycles/<br />
-（＊ 編集中 github / io 併用について難航中 ＊）<br />
+（＊ 編集中 github(Codes) / io(Web Pages) 併用について難航中。 CodesでREADME.mdを編集して、Webへアクセスする、、と思う ＊）<br />
 
-# ２０２６年４月　道路交通法改正　特に自転車の歩道通行について
+# ２０２６年４月　道路交通法改正　特に自転車の歩道通行
+<br />
+
+### について
+- 警察庁の発表
+  - をもとにしたマスコミ報道
+    - をもとにしたネット民の反応
+
+すべてにおいて納得いかないので、緊急立ち上げ。
+<br />
+<br />
+
+### ４月以降どうすんの？
+これまで通り。
+- ノーヘル
+- 原則歩道通行
+- 無保険（他保険での特約等もなし）
+  - 県の条例違反・・（自転車保険加入義務）
+- ＢＤ－１
+
+これといって、どうもしない
+<br />
 <br />
 
 ### ファイル構成
 - [ルールブック](on_sidewalks.html) 第六十三条の四を抜粋したもの<!--  - [html](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.html) （Pagesだとprivateになってしまう？ 課金？ / hubだとWebではなくhtmlソースとして解釈してしまう・・）-->
-- [印刷用PDF](on_sidewalks.pdf) （Ｗｅｂでhtmlを直接編集すると、（ローカルでやってる）ＰＤＦの更新が追い付かないｗ）<!--  - [pdf](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.pdf) -->
+- [印刷用PDF](on_sidewalks.pdf) <!--（Ｗｅｂでhtmlを直接編集すると、（ローカルでやってる）ＰＤＦの更新が追い付かないｗ）--><!--  - [pdf](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.pdf) -->
+<br />
 <br />
 
 ### 使い方
