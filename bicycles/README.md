@@ -5,10 +5,10 @@ URL: http://kensuke.github.io/misc/bicycles/
 <br />
 
 ### ファイル構成
-- [ルールブック](_on_sidewalks.html) 第六十三条の四を抜粋したもの
-  - [html](https://github.com/kensuke/misc/blob/master/bicycles/_on_sidewalks.html) （Pagesだとprivateになってしまう？ 課金？ / hubだとWebではなくhtmlソースとして解釈してしまう・・）
-- [印刷用PDF](_on_sidewalks.pdf) （Ｗｅｂでhtmlを直接編集すると、（ローカルでやってる）ＰＤＦの更新が追い付かないｗ）
-  - [pdf](https://github.com/kensuke/misc/blob/master/bicycles/_on_sidewalks.pdf)
+- [ルールブック](on_sidewalks.html) 第六十三条の四を抜粋したもの
+<!--  - [html](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.html) （Pagesだとprivateになってしまう？ 課金？ / hubだとWebではなくhtmlソースとして解釈してしまう・・）-->
+- [印刷用PDF](on_sidewalks.pdf) （Ｗｅｂでhtmlを直接編集すると、（ローカルでやってる）ＰＤＦの更新が追い付かないｗ）
+<!--  - [pdf](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.pdf) -->
 <br />
 
 ### リンク
