@@ -3,7 +3,6 @@ URL: http://kensuke.github.io/misc/bicycles/
 
 # ２０２６年４月　道路交通法改正　特に自転車の歩道走行について
 <br />
-<br />
 
 ### ファイル構成
 - [ルールブック](_on_sidewalks.html) 第六十三条の四を抜粋したもの
@@ -12,17 +11,13 @@ URL: http://kensuke.github.io/misc/bicycles/
   - [pdf](https://github.com/kensuke/misc/blob/master/bicycles/_on_sidewalks.pdf)
 <br />
 
-
 ### リンク
 - [道路交通法](https://laws.e-gov.go.jp/law/335AC0000000105)
   - [道路交通法の一部改正（令和6年5月24日法律第34号　公布の日から起算して6月を超えない範囲内において政令で定める日から施行　※令和6年9月4日（政令第271号）において令和6年11月1日からの施行となりました）](https://www.sn-hoki.co.jp/article/pickup_hourei/pickup_hourei3613150/)
-<br />
-
 
 - [警察庁 自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)
   - [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)
 <br />
-
 
 ### ルールブックおかしいだろ
 
