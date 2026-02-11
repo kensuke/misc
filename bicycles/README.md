@@ -61,6 +61,14 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 -  警官の高圧的な態度に納得いかないとは思いますが、
 <br />
 
+### ネット民の反応
+- [リアルタイム検索](https://search.yahoo.co.jp/realtime/search?p=%E8%87%AA%E8%BB%A2%E8%BB%8A%20%E6%AD%A9%E9%81%93)
+<br />
+
+![5ch](5ch.jpg)
+
+めまいがする・・
+
 ### リンク
 - [道路交通法](https://laws.e-gov.go.jp/law/335AC0000000105)
   - [道路交通法の一部改正（令和6年5月24日法律第34号　公布の日から起算して6月を超えない範囲内において政令で定める日から施行　※令和6年9月4日（政令第271号）において令和6年11月1日からの施行となりました）](https://www.sn-hoki.co.jp/article/pickup_hourei/pickup_hourei3613150/)
@@ -68,8 +76,6 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 - [警察庁 自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)
   - [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)
 <br />
-
-![5ch](5ch.jpg)
 
 ### ルールブックおかしいだろ
 
