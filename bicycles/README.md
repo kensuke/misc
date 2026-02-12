@@ -149,11 +149,11 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 ```
 
 現実
-![現実](ben1.jpg)<br />
+![現実](venn1.jpg)<!-- ben venn リネームｗ --><br />
 雑な思い付きで、ベン図？のようなものを作成。ふわっと作ってみただけだが、結構うまくいった
 
 理想
-![りそう](ben2.jpg)
+![りそう](venn2.jpg)
 
 ### あとでやる
 - Ｂ８サイズ化？
