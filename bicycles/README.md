@@ -6,7 +6,7 @@
   ・な～～んかMarkdownうまくいかない印象なんだが・・
 -->
 URL: http://kensuke.github.io/misc/bicycles/<br />
-（＊ 編集中 github(Codes) / io(Web Pages) 併用について難航中。 CodesでREADME.mdを編集して、Webへアクセスする、、と思う ＊）<br />
+（＊ 編集中 github(Codes) / io(Web Pages) 併用について難航中。 CodesでREADME.mdを編集して、Webへアクセスする（htmlファイルは使わない）、、と思う ＊）<br />
 
 # ２０２６年４月　道路交通法改正　特に自転車の歩道通行
 <br />
@@ -16,7 +16,7 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
   - をもとにしたマスコミ報道
     - をもとにしたネット民の反応
 
-すべてにおいて納得いかないので、緊急立ち上げ（２０２６年１月末ごろ～）。
+すべてにおいて納得いかないので、緊急立ち上げ（２０２６年１月末ごろ～）。構想は２０２５年夏ごろ。
 <br />
 <br />
 
@@ -148,9 +148,12 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 ６３－４）ただし警官の指示が優先　←　これもなんか
 ```
 
-```
-ベン図？
-```
+現実
+![現実](ben1.jpg)<br />
+雑な思い付きで、ベン図？のようなものを作成。ふわっと作ってみただけだが、結構うまくいった
+
+理想
+![りそう](ben2.jpg)
 
 ### あとでやる
 - Ｂ８サイズ化？
