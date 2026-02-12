@@ -17,8 +17,8 @@
 ## 2015/10 - js-eigo
 <s>http://www.geocities.jp/s107ken/prog/js-eigo.html</s> https://s107ken.web.fc2.com/prog/js-eigo.html<br />
 See also: http://anond.hatelabo.jp/20151018103514<br />
-（これ、10 years ago １０年前なんだねえ・・）
-<br />
+（これ、10 years ago １０年前なんだねえ・・）<br />
+![10](10years.jpg)
 <br />
 
 ## 2019/12 - cron next execution
