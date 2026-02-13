@@ -148,6 +148,14 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 ６３－４）ただし警官の指示が優先　←　これもなんか
 ```
 
+<!--
+```mermaid
+flowchart TD
+    Start -- > Stop
+```
+ＵＭＬが書けるらしい
+-->
+
 現実
 ![現実](venn1.jpg)<!-- ben venn リネームｗ --><br />
 雑な思い付きで、ベン図？のようなものを作成。ふわっと作ってみただけだが、結構うまくいった
