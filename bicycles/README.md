@@ -96,7 +96,7 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 > ブレーキをかける時間を確保<br />
 
 （笑）<br />
-（あとで書く）<br />
+[あとで書いた](right-side.md) ~~（あとで書く）~~<br />
 
 この２点に関して指摘・連絡済み
 <br />
@@ -148,13 +148,30 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 ６３－４）ただし警官の指示が優先　←　これもなんか
 ```
 
-<!--
 ```mermaid
-flowchart TD
-    Start -- > Stop
+flowchart LR
+    S[しゅっぱ～つ] --> C
+    C{自転車道？}
+    C -->|はい| Gol
+    C -->|いいえ| Sig
+    Gol[ゴール]
+
+    Sig{歩道通行可標識あり？}
+    Sig -->|はい| Pol
+    Sig -->|いいえ| Age
+
+    Age{年齢は１３未満・７０以上？}
+    Age -->|はい| Pol
+    Age -->|いいえ| Env
+
+    Env{車道は危険？}
+    Env -->|はい| Pol
+    Env -->|いいえ| S
+
+    Pol{警官の許可？}
+    Pol -->|はい| Gol
+    Pol -->|いいえ| S
 ```
-ＵＭＬが書けるらしい
--->
 
 現実
 ![現実](venn1.jpg)<!-- ben venn リネームｗ --><br />
