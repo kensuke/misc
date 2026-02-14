@@ -63,17 +63,8 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 - 「はい論破ｗｗ」とか禁止
 -  職質時は録画がベター
 -  警官の高圧的な態度に納得いかないとは思いますが、
-<br />
-
-### ネット民の反応
-- [リアルタイム検索](https://search.yahoo.co.jp/realtime/search?p=%E8%87%AA%E8%BB%A2%E8%BB%8A%20%E6%AD%A9%E9%81%93)<br />
-めまいがする・・<br />
-（震源地？）<br />
-
-![5ch](5ch.jpg)
-
-コピペ、書き込みのたびにＩＤチェーンジ、キャッチボールにならないやりとり、<br />
-<br />
+ 
+### [ネット民の反応](netmin.md)
 
 ### リンク
 - [道路交通法](https://laws.e-gov.go.jp/law/335AC0000000105)
