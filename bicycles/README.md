@@ -172,6 +172,7 @@ flowchart LR
     Pol -->|はい| Gol
     Pol -->|いいえ| S
 ```
+（あとでやる：Codes フローチャートが出力される / Pages されない）
 
 現実
 ![現実](venn1.jpg)<!-- ben venn リネームｗ --><br />
