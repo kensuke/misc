@@ -55,7 +55,8 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 2. 半分 半分 半分と折り曲げ、切り込み、冊子にします<br />
    2-1. [1枚の用紙で小冊子をつくる](https://manuals.ricoh.com/driver/rpcsv4/help/jp/HTMLFILE/IDH_HOW_Pamphlet.htm)（リコー）
 3. A7サイズのカードケースへ入れ、でかけるときのバッグへ常備します<br />
-   3-1. [軟質カードケースＡ７サイズ](https://jp.daisonet.com/products/4550480305844)（ダイソー）
+   3-1. [軟質カードケースＡ７サイズ](https://jp.daisonet.com/products/4550480305844)（ダイソー）<br />
+   3-2. [軟質カードケースＢ８サイズ](https://jp.daisonet.com/products/4984343014923)（ダイソー）
 4. 自転車で歩道を安全通行します<br />
    4-1. 自転車通行可の標識を確認しましょう！！ 大抵あるはず<br />
         4-1-1. 標識がない場合は・・。結構厳しいと思う。一応「だって車道危ないじゃん」にも対応しているはずだが、
