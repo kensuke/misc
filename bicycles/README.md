@@ -14,7 +14,7 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 ### について
 - 警察庁の発表
   - をもとにしたマスコミ報道
-    - をもとにしたネット民の反応
+    - をもとにした[ネット民の反応](netmin.md)
 
 すべてにおいて納得いかないので、緊急立ち上げ（２０２６年１月末ごろ～）。構想は２０２５年夏ごろ。
 <br />
@@ -40,7 +40,9 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 
 ### ファイル構成
 - [ルールブック](on_sidewalks.html) 第六十三条の四を抜粋したもの<!--  - [html](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.html) （Pagesだとprivateになってしまう？ 課金？ / hubだとWebではなくhtmlソースとして解釈してしまう・・）-->
-- [印刷用PDF](on_sidewalks.pdf) <!--（Ｗｅｂでhtmlを直接編集すると、（ローカルでやってる）ＰＤＦの更新が追い付かないｗ）--><!--  - [pdf](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.pdf) -->
+- 印刷用PDF
+  - [A4印刷-A7ケース版](on_sidewalks_A4-A7.pdf) （80kb）
+  - [B5印刷-B8ケース版](on_sidewalks_B5-B8.pdf) （565kb なぜ） <!--（Ｗｅｂでhtmlを直接編集すると、（ローカルでやってる）ＰＤＦの更新が追い付かないｗ）--><!--  - [pdf](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.pdf) -->
 <br />
 
 ![a7](a7.jpg)
@@ -64,7 +66,6 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 -  職質時は録画がベター
 -  警官の高圧的な態度に納得いかないとは思いますが、
  
-### [ネット民の反応](netmin.md)
 
 ### リンク
 - [道路交通法](https://laws.e-gov.go.jp/law/335AC0000000105)
@@ -141,11 +142,10 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 
 ```mermaid
 flowchart LR
-    S[しゅっぱ～つ] --> C
+    S[しゅっぱ～つ♪] --> C
     C{自転車道？}
     C -->|はい| Gol
     C -->|いいえ| Sig
-    Gol[ゴール]
 
     Sig{歩道通行可標識あり？}
     Sig -->|はい| Pol
@@ -162,20 +162,36 @@ flowchart LR
     Pol{警官の許可？}
     Pol -->|はい| Gol
     Pol -->|いいえ| S
+
+    Gol[ゴーール！]
 ```
 （あとでやる：Codes フローチャートが出力される / Pages されない）
+<br />
+<br />
 
 現実
 ![現実](venn1.jpg)<!-- ben venn リネームｗ --><br />
 雑な思い付きで、ベン図？のようなものを作成。ふわっと作ってみただけだが、結構うまくいった
+<br />
 
 理想
 ![りそう](venn2.jpg)<br />
 自転車道を作ったら作ったで、路駐タクシー荷降ろしうんぬんはまた別途
 <br />
+<br />
+
+### 作業中
+- Ｂ８サイズ化？
+  - ＨＴＭＬをブラウザで表示、ブラウザからＰＤＦとして印刷、印刷設定でＢ５サイズとして出力
+  - コンビニプリントでＢ５で印刷・・できた
+  - Ｂ５を半分半分半分するとＢ８になる
+  - Ｂ８サイズのケースへ入れて・・
+  - 定期入れへ・・入らないｗ
+
+Ｂ８サイズケースは、定期等のカードをいれるサイズなので、カードよりも一回り大きくなる
+<br />
 
 ### あとでやる
-- Ｂ８サイズ化？
-  - 定期入れに常備 
 - レスポンシブデザイン（やらない）
 - 背景、経緯等
+  - なんだかごちゃごちゃしてきた。ルールを別ページにする案はあるが・・
