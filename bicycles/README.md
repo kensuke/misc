@@ -146,25 +146,35 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 flowchart LR
     S[しゅっぱ～つ♪] --> C
     C{自転車道？}
-    C -->|はい| Gol
+    C -->|はい| Bi
     C -->|いいえ| Sig
 
-    Sig{歩道通行可標識あり？}
+    Sig{歩道通行可<br />標識あり？}
     Sig -->|はい| Pol
     Sig -->|いいえ| Age
 
-    Age{年齢は１３未満・７０以上？}
+    Age{年齢は<br />１３未満・７０以上？}
     Age -->|はい| Pol
     Age -->|いいえ| Env
 
     Env{車道は危険？}
     Env -->|はい| Pol
     Env -->|いいえ１| S
-    Env -->|いいえ２| Gol
+    Env -->|いいえ２| Ca
 
-    Pol{警官の許可？}
-    Pol -->|はい| Gol
-    Pol -->|いいえ| S
+    Pol{警官の許可？<br />（オプション）}
+    Pol -->|はい| Wa
+    Pol -->|いいえ１| S
+    Pol -->|いいえ２| Ca
+
+    Bi[自転車道] --> Gol
+    Wa[歩道] --> Gol
+    Ca[車道] --> Acc
+
+    Acc{事故？}
+    Acc --> |いいえ| Gol
+    Acc --> |はい| Hos
+    Hos[病院] --> S
 
     Gol[ゴーール！]
 ```
