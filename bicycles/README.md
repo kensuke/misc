@@ -8,7 +8,7 @@
 ・Mermaid https://mermaid.js.org/syntax/flowchart.html
 -->
 URL: http://kensuke.github.io/misc/bicycles/<br />
-（＊ 編集中 github(Codes) / io(Web Pages) 併用について難航中。 CodesでREADME.mdを編集して、Webへアクセスする（htmlファイルは使わない）、、と思う ＊）<br />
+（＊ 編集中 github(Codes) / io(Web Pages。ＱＲコードのリンク先) 併用について難航中。 CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・ ＊）<br />
 
 # ２０２６年４月　道路交通法改正　特に自転車の歩道通行
 <br />
@@ -65,9 +65,7 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
 5. 職質されたら自家製ルールブックを印籠にして、「道交法 ６３条４の１で標識がある場合は～～」
 <br />
 
-[^1]: だいぶ以前、９７％の歩道に標識がある（もしくは標識がなくてもなんらかのあれで自転車通行可歩道）って聞いた。ほんとに？ｗ どこ情報だ？？<br />
-これ（９７％）が揺らいでしまったのは、自宅徒歩５分のスーパー脇の歩道（車道とは縁石で区切りあり）に標識がなかったことをいまさら（２０２６年）に気が付いた。ここが３％・・だとは思えない。ので、なにか勘違いなんだろうなと思う<br />
-４４％？ｗ うーん [自転車歩行者道](https://ja.wikipedia.org/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%AD%A9%E8%A1%8C%E8%80%85%E9%81%93)（Wikipedia）
+[^1]: だいぶ以前、９７％の歩道に標識がある（もしくは標識がなくてもなんらかのあれで自転車通行可歩道）って聞いた。ほんとに？ｗ どこ情報だ？？<br />これ（９７％）が揺らいでしまったのは、自宅徒歩５分のスーパー脇の歩道（車道とは縁石で区切りあり）に標識がなかったことをいまさら（２０２６年）に気が付いた。ここが３％・・だとは思えない。ので、なにか勘違いなんだろうなと思う。<br />４４％？ｗ うーん [自転車歩行者道](https://ja.wikipedia.org/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%AD%A9%E8%A1%8C%E8%80%85%E9%81%93)（Wikipedia）
 
 ### 注意事項
 - 「はい論破ｗｗ」とか禁止
@@ -184,7 +182,7 @@ flowchart LR
 
     Gol[ゴーール！]
 ```
-（あとでやる：Codes フローチャートが出力される / Pages されない）
+（あとでやる：[Codes](https://github.com/kensuke/misc/blob/master/bicycles/README.md) フローチャートが図形として出力される / [Pages](http://kensuke.github.io/misc/bicycles/) されない）
 <br />
 <br />
 
@@ -214,3 +212,5 @@ flowchart LR
 - レスポンシブデザイン（やらない）
 - 背景、経緯等
   - なんだかごちゃごちゃしてきた。ルールを別ページにする案はあるが・・
+<br />
+<br />
