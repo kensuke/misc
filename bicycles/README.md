@@ -1,4 +1,5 @@
 <!-- 
+俺専用メモ
 ・自分で作ったWebページをインターネット上に公開しよう！ https://prog-8.com/docs/github-pages
 ・GitHub 上でフォルダ（ディレクトリ）を作成する方法 https://zenn.dev/kazuk_super/articles/setouchi-h-how-to-create-folder-on-github 2025/05/27 — 手順 · 「Add file」→「Create new file」を選択 · 新しいファイル名に フォルダ名/ファイル名 を入力たとえば、 test/test.md と入力すると test ...
 ・github pages file name _ GitHub Pagesで先頭がアンダースコア（_）で始まるファイルやディレクトリ（例: _css/, _files/）は、Jekyllの処理対象（通常は無視）と見なされ、Redditの投稿によるとWebサイト上で公開・表示されません。
@@ -7,8 +8,9 @@
 ・Qiita マークダウン記法 一覧表・チートシート https://qiita.com/kamorits/items/6f342da395ad57468ae3
 ・Mermaid https://mermaid.js.org/syntax/flowchart.html
 -->
-URL: http://kensuke.github.io/misc/bicycles/<br />
-（＊ 編集中 github(Codes) / io(Web Pages。ＱＲコードのリンク先) 併用について難航中。 CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・ ＊）<br />
+URL: http://kensuke.github.io/misc/bicycles/ ＱＲコードのリンク先<br />
+（＊ 編集中[^1] ＊）<br />
+[^1]:Codes: https://github.com/kensuke/misc/blob/master/bicycles/README.md と<br />Web Pages: http://kensuke.github.io/misc/bicycles/ <br />併用について難航中。CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・<br />
 
 # ２０２６年４月　道路交通法改正　特に自転車の歩道通行
 <br />
@@ -60,12 +62,12 @@ URL: http://kensuke.github.io/misc/bicycles/<br />
    3-1. [軟質カードケースＡ７サイズ](https://jp.daisonet.com/products/4550480305844)（ダイソー）<br />
    3-2. [軟質カードケースＢ８サイズ](https://jp.daisonet.com/products/4984343014923)（ダイソー）
 4. 自転車で歩道を安全通行します<br />
-   4-1. 自転車通行可の標識を確認しましょう！！ 大抵あるはず[^1]<br />
+   4-1. 自転車通行可の標識を確認しましょう！！ 大抵あるはず[^2]<br />
    4-1-1. 標識がない場合は・・。結構厳しいと思う。一応「だって車道危ないじゃん」にも対応しているはずだが、
 5. 職質されたら自家製ルールブックを印籠にして、「道交法 ６３条４の１で標識がある場合は～～」
 <br />
 
-[^1]: だいぶ以前、９７％の歩道に標識がある（もしくは標識がなくてもなんらかのあれで自転車通行可歩道）って聞いた。ほんとに？ｗ どこ情報だ？？<br />これ（９７％）が揺らいでしまったのは、自宅徒歩５分のスーパー脇の歩道（車道とは縁石で区切りあり）に標識がなかったことをいまさら（２０２６年）に気が付いた。ここが３％・・だとは思えない。ので、なにか勘違いなんだろうなと思う。<br />４４％？ｗ うーん [自転車歩行者道](https://ja.wikipedia.org/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%AD%A9%E8%A1%8C%E8%80%85%E9%81%93)（Wikipedia）
+[^2]: だいぶ以前、９７％の歩道に標識がある（もしくは標識がなくてもなんらかのあれで自転車通行可歩道）って聞いた。ほんとに？ｗ どこ情報だ？？<br />これ（９７％）が揺らいでしまったのは、自宅徒歩５分のスーパー脇の歩道（車道とは縁石で区切りあり）に標識がなかったことをいまさら（２０２６年）に気が付いた。ここが３％・・だとは思えない。ので、なにか勘違いなんだろうなと思う。<br />４４％？ｗ うーん [自転車歩行者道](https://ja.wikipedia.org/wiki/%E8%87%AA%E8%BB%A2%E8%BB%8A%E6%AD%A9%E8%A1%8C%E8%80%85%E9%81%93)（Wikipedia）
 
 ### 注意事項
 - 「はい論破ｗｗ」とか禁止
