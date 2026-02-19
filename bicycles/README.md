@@ -11,7 +11,7 @@
 URL: http://kensuke.github.io/misc/bicycles/ ＱＲコードのリンク先<br />
 （＊ 編集中[^1] ＊）<br />
 
-[^1]: Codes: https://github.com/kensuke/misc/blob/master/bicycles/README.md と<br />Web Pages: http://kensuke.github.io/misc/bicycles/ <br />併用について難航中。CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・<br />
+[^1]: Codes: https://github.com/kensuke/misc/blob/master/bicycles/README.md と<br />Web Pages: http://kensuke.github.io/misc/bicycles/ の<br />併用について難航中。CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・<br />
 
 # ２０２６年４月　道路交通法改正　特に自転車の歩道通行
 <br />
