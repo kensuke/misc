@@ -19,7 +19,7 @@ URL: http://kensuke.github.io/misc/bicycles/ ＱＲコードのリンク先<br /
 ### について
 - 警察庁の発表
   - をもとにしたマスコミ報道
-    - をもとにした[ネット民の反応](netmin.md)
+    - をもとにした[ネット民の反応](R_netmin.md)
 
 すべてにおいて納得いかないので、緊急立ち上げ（２０２６年１月末ごろ～）。構想は２０２５年夏ごろ。
 <br />
@@ -98,7 +98,7 @@ URL: http://kensuke.github.io/misc/bicycles/ ＱＲコードのリンク先<br /
 > ブレーキをかける時間を確保<br />
 
 （笑）<br />
-[あとで書いた](right-side.md) ~~（あとで書く）~~<br />
+[あとで書いた](R_right-side.md) ~~（あとで書く）~~<br />
 
 この２点に関して指摘・連絡済み
 <br />
