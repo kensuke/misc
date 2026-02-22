@@ -1,5 +1,4 @@
 # インターネットが終わってる１０つの理由
-（執筆中？）
 
 ### ネット民の反応
 - [リアルタイム X検索 自転車 歩道](https://search.yahoo.co.jp/realtime/search?p=%E8%87%AA%E8%BB%A2%E8%BB%8A%20%E6%AD%A9%E9%81%93)<br />
