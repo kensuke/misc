@@ -1,4 +1,4 @@
-URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bicycles/) > [R_netmin.md](http://kensuke.github.io/misc/bicycles/R_netmin.md)
+URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bicycles/) > [R_netmin.html](http://kensuke.github.io/misc/bicycles/R_netmin.html)
 
 # インターネットが終わってる１０つの理由
 
