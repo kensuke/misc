@@ -1,3 +1,4 @@
+URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bicycles/) > [R_media.html](http://kensuke.github.io/misc/bicycles/R_media.html) 
 
 ## 経緯
 （ここ１年程度の話だが・・な～～んかもうすでに・・。きちんと記録しておかないと大変なことになるぞ！）
