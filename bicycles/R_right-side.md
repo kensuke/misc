@@ -1,7 +1,5 @@
 # 警察庁の歩道で車道寄りを通行しなければいけないのはなぜ？がイライラする
 
-（執筆中）
-
 - [警察庁 自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)
   - [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)
 
