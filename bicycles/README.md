@@ -8,7 +8,7 @@
 ・Qiita マークダウン記法 一覧表・チートシート https://qiita.com/kamorits/items/6f342da395ad57468ae3
 ・Mermaid https://mermaid.js.org/syntax/flowchart.html
 -->
-URL: http://kensuke.github.io/misc/bicycles/ ＱＲコードのリンク先<br />
+URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bicycles/) ＱＲコードのリンク先<br />
 （＊ 編集中[^1] ＊）<br />
 
 [^1]: Codes: https://github.com/kensuke/misc/blob/master/bicycles/README.md と<br />Web Pages: http://kensuke.github.io/misc/bicycles/ の併用について難航中。<br />CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・。だいたいこれ、README.mdがindex.htmlなわけ？ ここからして違和感が<br />
