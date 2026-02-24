@@ -86,8 +86,9 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 - [道路交通法](https://laws.e-gov.go.jp/law/335AC0000000105)
   - [道路交通法の一部改正（令和6年5月24日法律第34号　公布の日から起算して6月を超えない範囲内において政令で定める日から施行　※令和6年9月4日（政令第271号）において令和6年11月1日からの施行となりました）](https://www.sn-hoki.co.jp/article/pickup_hourei/pickup_hourei3613150/)
   - [道路交通法施行令](https://lawzilla.jp/law/335CO0000000270?n=ln26)
-- [警察庁 自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)
+- [自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)（警察庁）
   - [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)
+- [自転車ポータルサイト](https://www.npa.go.jp/bureau/traffic/bicycle/portal/index.html)（警察庁）
 <br />
 
 ### ルールブックおかしいだろ
