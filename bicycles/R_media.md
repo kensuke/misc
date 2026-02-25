@@ -23,9 +23,9 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
   - １０月　天才インフルエンサー ６０００万ビューｗ
     - 日本人の２人に１人が見ている！？[^1]
 - ↓ １２月１０日　[取締りについて](https://www.npa.go.jp/bureau/traffic/bicycle/portal/control.html)（警察庁）
-  - １２月１２日 [う〇こ](https://www.npa.go.jp/bureau/traffic/bicycle/portal/m-tmk-01.html) [^2]（警察庁！？）
+  - １２月１２日 [う〇こ](https://www.npa.go.jp/bureau/traffic/bicycle/portal/m-tmk-01.html) [^2]（警察庁！？）<br />
 <br />
-警察庁ようやっとるよ<br />
+警察庁ようやっとるよ。おおむね四半期ごとにアウトプットしてるみたいだし。<br />
 <br />
 
 ２０２６年
