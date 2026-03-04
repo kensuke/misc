@@ -1,6 +1,7 @@
 URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bicycles/) > [R_rules](http://kensuke.github.io/misc/bicycles/R_rules.html)
 <hr />
 
+<!-- GitHub Pagesで作ったMarkdownドキュメントにTable of Contents (TOC) を付ける方法 https://qiita.com/kazurayam/items/d3483c4b3f199936cf6a -->
 - Table of Content
 {:toc}
 
