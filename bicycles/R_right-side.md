@@ -1,4 +1,5 @@
 URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bicycles/) > [R_right-side.html](http://kensuke.github.io/misc/bicycles/R_right-side.html)
+<hr />
 
 # 警察庁の歩道で車道寄りを通行しなければいけないのはなぜ？がイライラする
 
