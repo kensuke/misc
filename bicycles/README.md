@@ -17,7 +17,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 <br />
 
 ### について
-- 警察庁の[発表](R_113.md)
+- 警察庁の[発表](R_rules.md)
   - をもとにした[マスコミ報道](R_media.md)
     - をもとにした[ネット民の反応](R_netmin.md)
 
