@@ -1,3 +1,5 @@
+URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bicycles/) > [R_rules](http://kensuke.github.io/misc/bicycles/R_rules.html) > [R_rules_053](http://kensuke.github.io/misc/bicycles/R_rules_053.html)
+<hr />
 
 ## 合図不履行
 これ、個人的に、自転車は原則車道通行がー例外歩道通行がー・・よりも大きいと感じる。
@@ -23,26 +25,32 @@
 ![release](release.jpg) 警察庁 ルールブック
 
 ネットの信頼のおける有識者によれば、ハンドサインの結果 ふらついたりして発生した事故は違法にならないらしい。（要確認）
+<br />
+<br />
 
 ### どうすんの・・
 わかんね・・。ウィンカーを付けないのであれば、右折左折時はいったん自転車をおりて歩行者扱いになるとか？<br />
 <br />
 近々で気になる事例がたくさん載ってる警察庁ルールブックに書いてないよね。意図的・・なのでは？ 自転車警官もやってないような気がするし・・。（もっともそこまで見てないが）<br />
 １１３ものルールうんたらあって、これは社会通念上黙殺ｒｙ
+<br />
+<br />
 
 ### 自転車用ウィンカー
 少ないがあるにはある。あるにはあるが、法的には方向指示器としては認められていない？ｗ（要確認）
-
-
-#### リンク
-1. [https://www.police.pref.chiba.jp/index.html](https://www.police.pref.chiba.jp/index.html) 千葉県警トップ
-2. [https://www.police.pref.chiba.jp/trafficSafety/index.html](https://www.police.pref.chiba.jp/trafficSafety/index.html) 交通安全
-3. [https://www.police.pref.chiba.jp/kotsusomuka/bicycle_safety.html](https://www.police.pref.chiba.jp/kotsusomuka/bicycle_safety.html) 自転車安全対策
-4. [https://www.police.pref.chiba.jp/kohoka/traffic-safety_defend-05._00209.html](https://www.police.pref.chiba.jp/kohoka/traffic-safety_defend-05._00209.html) 自転車の交通ルール
-5. [https://www.police.pref.chiba.jp/kotsusomuka/traffic-safety_defend-05.html](https://www.police.pref.chiba.jp/kotsusomuka/traffic-safety_defend-05.html) 自転車の交通ルール
-6. [https://www.police.pref.chiba.jp/content/common/000070885.pdf](https://www.police.pref.chiba.jp/content/common/000070885.pdf) 安全・安心な自転車利用に向けて【自転車の交通ルールガイドブック】はこちら​（PDF形式：1,613KB）
-7. （Ｗｅｂ屋のやってる感のせいで、リニューアル（笑）でＵＲＬ変わるだろうなあ・・）
+<br />
 <br />
 
-1. [自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)（警察庁）
-2. [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)
+#### リンク
+1. 千葉県警<br />
+   1-1. [https://www.police.pref.chiba.jp/index.html](https://www.police.pref.chiba.jp/index.html) 千葉県警トップ<br />
+   1-2. [https://www.police.pref.chiba.jp/trafficSafety/index.html](https://www.police.pref.chiba.jp/trafficSafety/index.html) 交通安全<br />
+   1-3. [https://www.police.pref.chiba.jp/kotsusomuka/bicycle_safety.html](https://www.police.pref.chiba.jp/kotsusomuka/bicycle_safety.html) 自転車安全対策<br />
+   1-4. [https://www.police.pref.chiba.jp/kohoka/traffic-safety_defend-05._00209.html](https://www.police.pref.chiba.jp/kohoka/traffic-safety_defend-05._00209.html) 自転車の交通ルール<br />
+   1-5. [https://www.police.pref.chiba.jp/kotsusomuka/traffic-safety_defend-05.html](https://www.police.pref.chiba.jp/kotsusomuka/traffic-safety_defend-05.html) 自転車の交通ルール<br />
+   1-6. [https://www.police.pref.chiba.jp/content/common/000070885.pdf](https://www.police.pref.chiba.jp/content/common/000070885.pdf) 安全・安心な自転車利用に向けて【自転車の交通ルールガイドブック】はこちら​（PDF形式：1,613KB）<br />
+   1-7. （Ｗｅｂ屋のやってる感のせいで、リニューアル（笑）でＵＲＬ変わるだろうなあ・・）<br />
+2. 警察庁<br />
+   2-1. [自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)<br />
+   2-2. [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)<br />
+<!-- 数字リストのネストがうまくいかない・・ こうじゃないよね？ -->
