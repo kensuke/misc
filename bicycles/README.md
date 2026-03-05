@@ -18,8 +18,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 <br />
 
 ### について
-- 警察庁の[発表](R_rules.md)
-  - をもとにした[マスコミ報道](R_media.md)
+- 警察庁の[発表](R_rules.md) （ルール）
+  - をもとにした[マスコミ報道](R_media.md) （国会からの経緯）
     - をもとにした[ネット民の反応](R_netmin.md)
 
 すべてにおいて納得いかないので、緊急立ち上げ（２０２６年１月末ごろ～）。構想は２０２５年夏ごろ。
