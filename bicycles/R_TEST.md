@@ -17,7 +17,6 @@ tesuto
 
 textarea？？ JavaScript？
 
-<input type="text" id="text1">
 <input type="button" value="17" onclick="addText(a);">
 <input type="button" value="18" onclick="addText(18);">
 <input type="button" value="削除" onclick="deleteText();">
@@ -33,3 +32,6 @@ function deleteText() {
   document.getElementById("area1").value="";
 }
 </script>   
+
+てか、そもそもクリックしたら展開、、ってあるような？
+ＪＳ？？
