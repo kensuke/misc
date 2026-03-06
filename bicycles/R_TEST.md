@@ -2,11 +2,12 @@ tesuto
 
 #### 【HTML】iframeタグの使い方
 https://qiita.com/mzmz__02/items/c74a388c8ade33d7b4c0
+
 <!--
 <iframe 
-  id="innerframe"
+  id="innerflame"
   src="https://laws.e-gov.go.jp/law/335AC0000000105/20260401_506AC0000000034#Mp-Ch_3-Se_1-At_17"
-  width="1280" height="720">
+  width="640" height="480">
 </iframe>
 -->
 
@@ -21,7 +22,7 @@ https://qiita.com/mzmz__02/items/c74a388c8ade33d7b4c0
 <a href="#innerframe">16</a><br />
 <a href="#innerframe">https://laws.e-gov.go.jp/law/335AC0000000105/20260401_506AC0000000034#Mp-Ch_3-Se_1-At_17</a><br />
 <a href="#innerframe">https://laws.e-gov.go.jp/law/335AC0000000105/20260401_506AC0000000034#Mp-Ch_3-Se_1-At_18</a><br />
-
+<br />
 
 #### javascriptにおけるテキストエリアへの追加と削除
 https://qiita.com/yuya-yuya/items/e5587898121b0aeee673
@@ -43,7 +44,7 @@ function deleteText() {
   document.getElementById("area1").value="";
 }
 </script>
-
+<br />
 
 #### クリックすると展開表示する"折りたたみメニュー"を簡単に作る方法
 https://fukafuka295.jp/oritatami-menu-setti/
@@ -59,7 +60,6 @@ https://fukafuka295.jp/oritatami-menu-setti/
 あ
 </div>
 
-
 <div onclick="obj=document.getElementById('open2').style; obj.display=(obj.display=='none')?'block':'none';">
 <a style="cursor:pointer;">▼ クリックで展開</a>
 </div>
@@ -68,5 +68,4 @@ https://fukafuka295.jp/oritatami-menu-setti/
 い
 </div>
 
-
-
+これでよくね！？
