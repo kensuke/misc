@@ -25,7 +25,7 @@ textarea？？ JavaScript？
 
 <script>   
 function addText(var n) {
-  document.getElementById("area1").value += n;
+  document.getElementById("area1").value = n;
 }
 
 function deleteText() {
