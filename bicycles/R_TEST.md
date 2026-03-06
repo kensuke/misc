@@ -18,7 +18,7 @@ tesuto
 textarea？？ JavaScript？
 
 <input type="text" id="text1">
-<input type="button" value="17" onclick="addText(17);">
+<input type="button" value="17" onclick="addText(a);">
 <input type="button" value="18" onclick="addText(18);">
 <input type="button" value="削除" onclick="deleteText();">
 <br>
