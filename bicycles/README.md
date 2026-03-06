@@ -12,7 +12,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 （＊ 編集中[^1] ＊）
 <hr />
 
-[^1]: Codes: https://github.com/kensuke/misc/blob/master/bicycles/README.md と<br />Web Pages: http://kensuke.github.io/misc/bicycles/ の併用について難航中。<br />CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・。だいたいこれ、README.mdがindex.htmlなわけ？ ここからして違和感が<br />
+[^1]: Codes: https://github.com/kensuke/misc/blob/master/bicycles/README.md と<br />Web Pages: http://kensuke.github.io/misc/bicycles/ の併用について難航中。<br />CodesでREADME.mdを編集して、Pagesへアクセスする（htmlファイルは使わない）、、と思う。だが、CodesとPagesで出力に差分があるんだよなあ・・。だいたいこれ、README.mdがindex.htmlなわけ？ ここからして違和感が<br /><br />いま気付いたんだが・・・これなんでgithubでやってるんだろう？ｗ<br />
 
 # ２０２６年４月　道路交通法改正　特に自転車の歩道通行
 <br />
