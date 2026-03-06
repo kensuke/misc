@@ -23,15 +23,15 @@ textarea？？ JavaScript？
 <br>
 <textarea id="area1"></textarea>
 
-<script>   
-function addText(var n) {
-  document.getElementById("area1").value = n;
+<script>
+function addText() {
+  document.getElementById("area1").value = "a";
 }
 
 function deleteText() {
   document.getElementById("area1").value="";
 }
-</script>   
+</script>
 
 てか、そもそもクリックしたら展開、、ってあるような？
 ＪＳ？？
