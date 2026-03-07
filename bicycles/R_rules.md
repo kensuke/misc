@@ -100,9 +100,9 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
   - 20km/h以上25km/h未満の場合: 10,000円
   - 15km/h以上20km/h未満の場合: 7,000円
   - 15km/h未満の場合: 6,000円
-- §22-1
-
-```
+- <div onclick="obj=document.getElementById('num22').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §22-1</a></div>
+<div id="num22" style="display:none;clear:both;">
+<pre>
 （最高速度）
 第二十二条　車両は、道路標識等によりその最高速度が指定されている道路においてはその最高速度を、その他の道路においては政令で定める最高速度をこえる速度で進行してはならない。
 ２　路面電車又はトロリーバスは、軌道法（大正十年法律第七十六号）第十四条（同法第三十一条において準用する場合を含む。第六十二条において同じ。）の規定に基づく命令で定める最高速度をこえない範囲内で道路標識等によりその最高速度が指定されている道路においてはその最高速度を、その他の道路においては当該命令で定める最高速度をこえる速度で進行してはならない。
@@ -113,8 +113,10 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 一　第二十二条（最高速度）の規定の違反となるような行為をした者
 
 ３　過失により第一項第一号の罪を犯した者は、三月以下の拘禁刑又は十万円以下の罰金に処する。
-```
+</pre>
+</div>
 <br />
+
 
 #### 信号無視
 - 意訳
