@@ -9,13 +9,15 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 - [自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)（警察庁）
   - [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)
 
-
 <!-- クリックすると展開表示する"折りたたみメニュー"を簡単に作る方法 https://fukafuka295.jp/oritatami-menu-setti/ -->
 <!--
 <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
 <div id="numXX" style="display:none;clear:both;">
+<pre>
 ああああ
+</pre>
 </div>
+<br />
 -->
 
 ## 踏切、電車関係
@@ -23,8 +25,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 #### 遮断踏切立入り
 - 入っちゃだめ
 - 7,000円
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §33-2</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num33').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §33-2</a></div>
+<div id="num33" style="display:none;clear:both;">
 <pre>
 （踏切の通過）
 第三十三条　車両等は、踏切を通過しようとするときは、踏切の直前（道路標識等による停止線が設けられているときは、その停止線の直前。以下この項において同じ。）で停止し、かつ、安全であることを確認した後でなければ進行してはならない。ただし、信号機の表示する信号に従うときは、踏切の直前で停止しないで進行することができる。
@@ -37,6 +39,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ３　過失により第一項第二号、第五号（第四十三条後段に係る部分を除く。）、第十四号、第十六号若しくは第十九号又は前項第二号の罪を犯した者は、十万円以下の罰金に処する。
 </pre>
 </div>
+<br />
 
 <!--
 - §33-2、（罰則　第一項及び第二項については第百十九条第一項第五号、同条第三項）[^1]
@@ -50,14 +53,13 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 [^1]: 第百十九条　次の各号のいずれかに該当する者は、三月以下の拘禁刑又は五万円以下の罰金に処する。<br />五　第三十条（追越しを禁止する場所）、第三十三条（踏切の通過）第一項若しくは第二項、第三十八条（横断歩道等における歩行者等の優先）、第四十二条（徐行すべき場所）又は第四十三条（指定場所における一時停止）の規定の違反となるような行為をした者<br />３　過失により第一項第二号、第五号（第四十三条後段に係る部分を除く。）、第十四号、第十六号若しくは第十九号又は前項第二号の罪を犯した者は、十万円以下の罰金に処する。<br />
 -->
-<br />
 
 #### 踏切不停止等
 - 意訳
 - 6,000円
 - §33-1
 
-（例の資料で反則行為は、条文ではなく、金額でまとめられている。そのため、こんなことになる。そういうとこだぞ。まとめるなら、シチュエーション別だろう）
+（警察庁の資料で反則行為は、条文ではなく、金額でまとめられている。そのため、こんなことになる。そういうとこだぞ。まとめるなら、シチュエーション別だろう）
 <br />
 
 
@@ -67,9 +69,9 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 - 動いてるときは携帯電話使用禁止
 - 12,000円
   - 根拠は？ 六月以下の拘禁刑又は十万円以下・・は車？
-- §71 (5)の5
-
-```
+- <div onclick="obj=document.getElementById('num71').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §71 (5)の5</a></div>
+<div id="num71" style="display:none;clear:both;">
+<pre>
 （運転者の遵守事項）
 第七十一条　車両等の運転者は、次に掲げる事項を守らなければならない。
 五の五　自動車、原動機付自転車又は自転車（以下この号において「自動車等」という。）を運転する場合においては、当該自動車等が停止しているときを除き、携帯電話用装置、自動車電話用装置その他の無線通話装置（その全部又は一部を手で保持しなければ送信及び受信のいずれをも行うことができないものに限る。第百十八条第一項第四号において「無線通話装置」という。）を通話（傷病者の救護又は公共の安全の維持のため当該自動車等の走行中に緊急やむを得ずに行うものを除く。同号において同じ。）のために使用し、又は当該自動車等に取り付けられ若しくは持ち込まれた画像表示用装置（道路運送車両法第四十一条第一項第十六号若しくは第十七号又は第四十四条第十一号に規定する装置であるものを除く。第百十八条第一項第四号において同じ。）に表示された画像を注視しないこと。
@@ -81,9 +83,9 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 第百十八条　次の各号のいずれかに該当する者は、六月以下の拘禁刑又は十万円以下の罰金に処する。
 四　第七十一条（運転者の遵守事項）第五号の五の規定に違反して無線通話装置を通話のために使用し、又は自動車、原動機付自転車若しくは自転車に持ち込まれた画像表示用装置を手で保持してこれに表示された画像を注視した者（第百十七条の四第一項第二号に該当する者を除く。）
-```
+</pre>
+</div>
 <br />
-
 
 #### 携帯電話使用等 (交通の危険)
 - 1年以下の拘禁刑又は30万円以下の罰金
@@ -474,3 +476,5 @@ $34-6
 あれ・・気のせいか画面が小さいスマホのほうが見やすい？ｗ
 
 これさあ、ふと思ったんだけど、フレーム分割するとよさそうじゃね？　〇〇違反をずら～～っと書いて、条文はフレームへ表示する・・。markdownのレベルでは無理か？ なんかもうこうなると昔のホムペのほうがよかったよなｗｗ
+
+・・iframe、textarea、・・クリックで開閉 アコーディオンメニュー・リストでついにＦｉｘか！？！
