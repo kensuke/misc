@@ -28,7 +28,6 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ３　過失により第一項第二号、第五号（第四十三条後段に係る部分を除く。）、第十四号、第十六号若しくは第十九号又は前項第二号の罪を犯した者は、十万円以下の罰金に処する。
 </pre>
 </div>
-<br />
 
 #### 6,000円　踏切不停止等
 - 意訳
@@ -36,7 +35,6 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 （警察庁の資料で反則行為は、条文ではなく、金額でまとめられている。そのため、こんなことになる。そういうとこだぞ。まとめるなら、シチュエーション別だろう）
 <br />
-
 
 <!--
 - §33-2、（罰則　第一項及び第二項については第百十九条第一項第五号、同条第三項）[^1]
@@ -72,7 +70,6 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 四　第七十一条（運転者の遵守事項）第五号の五の規定に違反して無線通話装置を通話のために使用し、又は自動車、原動機付自転車若しくは自転車に持ち込まれた画像表示用装置を手で保持してこれに表示された画像を注視した者（第百十七条の四第一項第二号に該当する者を除く。）
 </pre>
 </div>
-<br />
 
 #### 重大　30万円以下　携帯電話使用等 (交通の危険)
 - 1年以下の拘禁刑又は30万円以下の罰金
@@ -95,15 +92,12 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ２　路面電車又はトロリーバスは、軌道法（大正十年法律第七十六号）第十四条（同法第三十一条において準用する場合を含む。第六十二条において同じ。）の規定に基づく命令で定める最高速度をこえない範囲内で道路標識等によりその最高速度が指定されている道路においてはその最高速度を、その他の道路においては当該命令で定める最高速度をこえる速度で進行してはならない。
 
 （罰則　第百十八条第一項第一号、同条第三項）
-
 第百十八条　次の各号のいずれかに該当する者は、六月以下の拘禁刑又は十万円以下の罰金に処する。
 一　第二十二条（最高速度）の規定の違反となるような行為をした者
 
 ３　過失により第一項第一号の罪を犯した者は、三月以下の拘禁刑又は十万円以下の罰金に処する。
 </pre>
 </div>
-<br />
-
 
 #### 5,000～6,000円　信号無視
 - 意訳
@@ -129,23 +123,13 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 二　第四条（公安委員会の交通規制）第一項後段に規定する警察官の現場における指示若しくは第六条（警察官等の交通規制）第四項の規定による警察官の禁止若しくは制限に従わず、又は第七条（信号機の信号等に従う義務）若しくは第八条（通行の禁止等）第一項の規定の違反となるような行為をした者（当該行為が遠隔操作型小型車の遠隔操作による通行に関して行われた場合に限る。）</pre>
 </div>
-<br />
-
 
 #### 6,000円　通行区分違反
 - （これかあｗ）
 - 6,000円
-- §17-1, 2
-- §17-4, 6
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num17').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §17-1, 2、 §17-4, 6</a></div>
+<div id="num17" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （通行区分）
 第十七条　車両は、歩道又は路側帯（以下この条及び次条第一項において「歩道等」という。）と車道の区別のある道路においては、車道を通行しなければならない。ただし、道路外の施設又は場所に出入するためやむを得ない場合において歩道等を横断するとき、又は第四十七条第三項若しくは第四十八条の規定により歩道等で停車し、若しくは駐車するため必要な限度において歩道等を通行するときは、この限りでない。
 ２　前項ただし書の場合において、車両は、歩道等に入る直前で一時停止し、かつ、歩行者の通行を妨げないようにしなければならない。
@@ -158,37 +142,31 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 四　当該道路の左側部分の幅員が六メートルに満たない道路において、他の車両を追い越そうとするとき（当該道路の右側部分を見とおすことができ、かつ、反対の方向からの交通を妨げるおそれがない場合に限るものとし、道路標識等により追越しのため右側部分にはみ出して通行することが禁止されている場合を除く。）。
 五　勾こう配の急な道路のまがりかど附近について、道路標識等により通行の方法が指定されている場合において、当該車両が当該指定に従い通行するとき。
 ６　車両は、安全地帯又は道路標識等により車両の通行の用に供しない部分であることが表示されているその他の道路の部分に入つてはならない。
+
 （罰則　第一項から第三項まで及び第六項については第百十九条第一項第六号　第四項については第百十七条の二第一項第四号、第百十七条の二の二第一項第八号イ、第百十九条第一項第六号）
 
 第十三節　自転車の交通方法の特例
 （普通自転車の歩道通行）
 第六十三条の四
-```
-<br />
+</pre>
+</div>
 
 #### 6,000円　追越し違反
 - 意訳
-- §28 1-4
-- §29
-- §30
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num28').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §28 1-4、§29、§30</a></div>
+<div id="num28" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （追越しの方法）
 第二十八条　車両は、他の車両を追い越そうとするときは、その追い越されようとする車両（以下この節において「前車」という。）の右側を通行しなければならない。
 ２　車両は、他の車両を追い越そうとする場合において、前車が第二十五条第二項又は第三十四条第二項若しくは第四項の規定により道路の中央又は右側端に寄つて通行しているときは、前項の規定にかかわらず、その左側を通行しなければならない。
 ３　車両は、路面電車を追い越そうとするときは、当該車両が追いついた路面電車の左側を通行しなければならない。ただし、軌道が道路の左側端に寄つて設けられているときは、この限りでない。
 ４　前三項の場合においては、追越しをしようとする車両（次条において「後車」という。）は、反対の方向又は後方からの交通及び前車又は路面電車の前方の交通にも十分に注意し、かつ、前車又は路面電車の速度及び進路並びに道路の状況に応じて、できる限り安全な速度と方法で進行しなければならない。
+
 （罰則　第一項及び第四項については第百十七条の二第一項第四号、第百十七条の二の二第一項第八号ホ、第百十九条第一項第六号　第二項及び第三項については第百十九条第一項第六号）
 
 （追越しを禁止する場合）
 第二十九条　後車は、前車が他の自動車又はトロリーバスを追い越そうとしているときは、追越しを始めてはならない。
+
 （罰則　第百十九条第一項第六号）
 
 （追越しを禁止する場所）
@@ -196,22 +174,16 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 一　道路の曲がり角付近、上り坂の頂上付近又は勾配の急な下り坂
 二　トンネル（車両通行帯の設けられた道路以外の道路の部分に限る。）
 三　交差点（当該車両が第三十六条第二項に規定する優先道路を通行している場合における当該優先道路にある交差点を除く。）、踏切、横断歩道又は自転車横断帯及びこれらの手前の側端から前に三十メートル以内の部分
+
 （罰則　第百十九条第一項第五号、同条第三項）
-```
-<br />
+</pre>
+</div>
 
 #### 6,000円　交差点安全進行義務違反
 - ご安全に
-- §36-4
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num36').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-4</a></div>
+<div id="num36" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （交差点における他の車両等との関係等）
 第三十六条　車両等は、交通整理の行なわれていない交差点においては、次項の規定が適用される場合を除き、次の各号に掲げる区分に従い、当該各号に掲げる車両等の進行妨害をしてはならない。
 一　車両である場合　その通行している道路と交差する道路（以下「交差道路」という。）を左方から進行してくる車両及び交差道路を通行する路面電車
@@ -219,90 +191,62 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ２　車両等は、交通整理の行なわれていない交差点においては、その通行している道路が優先道路（道路標識等により優先道路として指定されているもの及び当該交差点において当該道路における車両の通行を規制する道路標識等による中央線又は車両通行帯が設けられている道路をいう。以下同じ。）である場合を除き、交差道路が優先道路であるとき、又はその通行している道路の幅員よりも交差道路の幅員が明らかに広いものであるときは、当該交差道路を通行する車両等の進行妨害をしてはならない。
 ３　車両等（優先道路を通行している車両等を除く。）は、交通整理の行なわれていない交差点に入ろうとする場合において、交差道路が優先道路であるとき、又はその通行している道路の幅員よりも交差道路の幅員が明らかに広いものであるときは、徐行しなければならない。
 ４　車両等は、交差点に入ろうとし、及び交差点内を通行するときは、当該交差点の状況に応じ、交差道路を通行する車両等、反対方向から進行してきて右折する車両等及び当該交差点又はその直近で道路を横断する歩行者に特に注意し、かつ、できる限り安全な速度と方法で進行しなければならない。
+
 （罰則　第一項については第百二十条第一項第二号　第二項から第四項までについては第百十九条第一項第六号）
-```
-<br />
+</pre>
+</div>
 
 #### 6,000円　環状交差点安全進行義務違反
 - 意訳
-- §37の2-3
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num37').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §37の2-3</a></div>
+<div id="num37" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （環状交差点における他の車両等との関係等）
 第三十七条の二　車両等は、環状交差点においては、第三十六条第一項及び第二項並びに前条の規定にかかわらず、当該環状交差点内を通行する車両等の進行妨害をしてはならない。
 ２　車両等は、環状交差点に入ろうとするときは、第三十六条第三項の規定にかかわらず、徐行しなければならない。
 ３　車両等は、環状交差点に入ろうとし、及び環状交差点内を通行するときは、第三十六条第四項の規定にかかわらず、当該環状交差点の状況に応じ、当該環状交差点に入ろうとする車両等、当該環状交差点内を通行する車両等及び当該環状交差点又はその直近で道路を横断する歩行者に特に注意し、かつ、できる限り安全な速度と方法で進行しなければならない。
-（罰則　第百十九条第一項第六号）
-```
-<br />
 
+（罰則　第百十九条第一項第六号）
+</pre>
+</div>
 
 #### 6,000円　横断歩行者等妨害等
 - 意訳
-- §38 1-3
-- §38-2
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num38').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §38 1-3、§38-2</a></div>
+<div id="num38" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （横断歩道等における歩行者等の優先）
 第三十八条　車両等は、横断歩道又は自転車横断帯（以下この条において「横断歩道等」という。）に接近する場合には、当該横断歩道等を通過する際に当該横断歩道等によりその進路の前方を横断しようとする歩行者又は自転車（以下この条において「歩行者等」という。）がないことが明らかな場合を除き、当該横断歩道等の直前（道路標識等による停止線が設けられているときは、その停止線の直前。以下この項において同じ。）で停止することができるような速度で進行しなければならない。この場合において、横断歩道等によりその進路の前方を横断し、又は横断しようとする歩行者等があるときは、当該横断歩道等の直前で一時停止し、かつ、その通行を妨げないようにしなければならない。
 ２　車両等は、横断歩道等（当該車両等が通過する際に信号機の表示する信号又は警察官等の手信号等により当該横断歩道等による歩行者等の横断が禁止されているものを除く。次項において同じ。）又はその手前の直前で停止している車両等がある場合において、当該停止している車両等の側方を通過してその前方に出ようとするときは、その前方に出る前に一時停止しなければならない。
 ３　車両等は、横断歩道等及びその手前の側端から前に三十メートル以内の道路の部分においては、第三十条第三号の規定に該当する場合のほか、その前方を進行している他の車両等（特定小型原動機付自転車等を除く。）の側方を通過してその前方に出てはならない。
+
 （罰則　第百十九条第一項第五号、同条第三項）
 
 （横断歩道のない交差点における歩行者の優先）
 第三十八条の二　車両等は、交差点又はその直近で横断歩道の設けられていない場所において歩行者が道路を横断しているときは、その歩行者の通行を妨げてはならない。
+
 （罰則　第百十九条第一項第六号）
-```
-<br />
-
-
-#### 6,000円　安全運転義務違反
-- 意訳
-- §70
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
-<pre>
-ああああ
 </pre>
 </div>
-<br />
 
-```
+#### 6,000円　安全運転義務違反
+- （なんかもう、この１文だけでよくね？ｗ）
+- <div onclick="obj=document.getElementById('num70').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §70
+</a></div>
+<div id="num70" style="display:block;clear:both;"><!-- ここだけ初期値で表示ｗ -->
+<pre>
 （安全運転の義務）
 第七十条　車両等の運転者は、当該車両等のハンドル、ブレーキその他の装置を確実に操作し、かつ、道路、交通及び当該車両等の状況に応じ、他人に危害を及ぼさないような速度と方法で運転しなければならない。
+
 （罰則　第百十七条の二第一項第四号、第百十七条の二の二第一項第八号チ、第百十九条第一項第十四号、同条第三項）
-```
-
-（なんかもう、この１文だけでよくね？ｗ）
-<br />
-
+</pre>
+</div>
 
 #### 5,000円　通行禁止違反
 - 意訳
-- §8-1
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num8').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §8-1</a></div>
+<div id="num8" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （通行の禁止等）
 第八条　歩行者等又は車両等は、道路標識等によりその通行を禁止されている道路又はその部分を通行してはならない。
 ２　車両は、警察署長が政令で定めるやむを得ない理由があると認めて許可をしたときは、前項の規定にかかわらず、道路標識等によりその通行を禁止されている道路又はその部分を通行することができる。
@@ -310,120 +254,83 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ４　前項の規定により許可証の交付を受けた車両の運転者は、当該許可に係る通行中、当該許可証を携帯していなければならない。
 ５　第二項の許可を与える場合において、必要があると認めるときは、警察署長は、当該許可に条件を付することができる。
 ６　第三項の許可証の様式その他第二項の許可について必要な事項は、内閣府令で定める。
-（罰則　第一項については第百十九条第一項第二号、同条第三項、第百二十一条第一項第一号及び第二号　第五項については第百二十一条第一項第三号）
 
+（罰則　第一項については第百十九条第一項第二号、同条第三項、第百二十一条第一項第一号及び第二号　第五項については第百二十一条第一項第三号）
 第百十九条　次の各号のいずれかに該当する者は、三月以下の拘禁刑又は五万円以下の罰金に処する。
 一　第四条（公安委員会の交通規制）第一項後段に規定する警察官の現場における指示又は第六条（警察官等の交通規制）第四項の規定による警察官の禁止若しくは制限に従わなかつた者（当該行為が車両等の通行に関して行われた場合に限る。）
 二　第七条（信号機の信号等に従う義務）、第八条（通行の禁止等）第一項又は第九条（歩行者用道路を通行する車両の義務）の規定の違反となるような行為をした者（当該行為が車両等の通行に関して行われた場合に限る。）
-```
-<br />
-
+</pre>
+</div>
 
 #### 5,000円　歩行者用道路徐行違反
 - 意訳
-- §9
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num9').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §9</a></div>
+<div id="num9" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （歩行者用道路を通行する車両の義務）
 第九条　車両は、歩行者の通行の安全と円滑を図るため車両の通行が禁止されていることが道路標識等により表示されている道路（第十三条の二において「歩行者用道路」という。）を、前条第二項の許可を受け、又はその禁止の対象から除外されていることにより通行するときは、特に歩行者に注意して徐行しなければならない。
-（罰則　第百十九条第一項第二号、同条第三項）
-```
-<br />
 
+（罰則　第百十九条第一項第二号、同条第三項）
+</pre>
+</div>
 
 #### 5,000円　歩行者等側方通過義務違反
 - 意訳
-- §18-2
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num18').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §18-2</a></div>
+<div id="num18" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （左側寄り通行等）
 第十八条　車両（トロリーバスを除く。）は、車両通行帯の設けられた道路を通行する場合を除き、自動車及び一般原動機付自転車（原動機付自転車のうち第二条第一項第十号イに該当するものをいう。以下同じ。）にあつては道路の左側に寄つて、特定小型原動機付自転車及び軽車両（以下「特定小型原動機付自転車等」という。）にあつては道路の左側端に寄つて、それぞれ当該道路を通行しなければならない。ただし、追越しをするとき、第二十五条第二項若しくは第三十四条第二項若しくは第四項の規定により道路の中央若しくは右側端に寄るとき、又は道路の状況その他の事情によりやむを得ないときは、この限りでない。
 ２　車両は、前項の規定により歩道と車道の区別のない道路を通行する場合その他の場合において、歩行者の側方を通過するときは、これとの間に安全な間隔を保ち、又は徐行しなければならない。
-（罰則　第二項については第百十九条第一項第六号）
-```
 
+（罰則　第二項については第百十九条第一項第六号）
+</pre>
+</div>
 
 #### 5,000円　急ブレーキ禁止違反
 - 意訳
-- §24
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num24').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §24
+</a></div>
+<div id="num24" style="display:none;clear:both;">
 <pre>
-ああああ
+（急ブレーキの禁止）
+第二十四条　車両等の運転者は、危険を防止するためやむを得ない場合を除き、その車両等を急に停止させ、又はその速度を急激に減ずることとなるような急ブレーキをかけてはならない。
+
+（罰則　第百十七条の二第一項第四号、第百十七条の二の二第一項第八号ロ、第百十九条第一項第三号）
 </pre>
 </div>
 <br />
-
-```
-（急ブレーキの禁止）
-第二十四条　車両等の運転者は、危険を防止するためやむを得ない場合を除き、その車両等を急に停止させ、又はその速度を急激に減ずることとなるような急ブレーキをかけてはならない。
-（罰則　第百十七条の二第一項第四号、第百十七条の二の二第一項第八号ロ、第百十九条第一項第三号）
-```
-
 
 #### 5,000円　法定横断等禁止違反
 - 意訳
-- §25の2-1
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num25').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §25の2-1</a></div>
+<div id="num25" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （横断等の禁止）
 第二十五条の二　車両は、歩行者又は他の車両等の正常な交通を妨害するおそれがあるときは、道路外の施設若しくは場所に出入するための左折若しくは右折をし、横断し、転回し、又は後退してはならない。
 ２　車両は、道路標識等により横断、転回又は後退が禁止されている道路の部分においては、当該禁止された行為をしてはならない。
-（罰則　第一項については第百十九条第一項第六号　第二項については第百二十条第一項第四号、同条第三項）
-```
 
+（罰則　第一項については第百十九条第一項第六号　第二項については第百二十条第一項第四号、同条第三項）
+</pre>
+</div>
 
 #### 5,000円　路面電車後方不停止
 - 意訳
-- §31
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num31').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §31</a></div>
+<div id="num31" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （停車中の路面電車がある場合の停止又は徐行）
 第三十一条　車両は、乗客の乗降のため停車中の路面電車に追いついたときは、当該路面電車の乗客が乗降を終わり、又は当該路面電車から降りた者で当該車両の前方において当該路面電車の左側を横断し、若しくは横断しようとしているものがいなくなるまで、当該路面電車の後方で停止しなければならない。ただし、路面電車に乗降する者の安全を図るため設けられた安全地帯があるとき、又は当該路面電車に乗降する者がいない場合において当該路面電車の左側に当該路面電車から一・五メートル以上の間隔を保つことができるときは、徐行して当該路面電車の左側を通過することができる。
-（罰則　第百十九条第一項第六号）
-```
 
+（罰則　第百十九条第一項第六号）
+</pre>
+</div>
 
 #### 5,000円　優先道路通行車妨害等
 - 意訳
-- §36-2・3
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num36').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-2・3</a></div>
+<div id="num36" style="display:none;clear:both;">
 <pre>
-ああああ
-</pre>
-</div>
-<br />
-
-```
 （交差点における他の車両等との関係等）
 第三十六条　車両等は、交通整理の行なわれていない交差点においては、次項の規定が適用される場合を除き、次の各号に掲げる区分に従い、当該各号に掲げる車両等の進行妨害をしてはならない。
 一　車両である場合　その通行している道路と交差する道路（以下「交差道路」という。）を左方から進行してくる車両及び交差道路を通行する路面電車
@@ -431,9 +338,10 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ２　車両等は、交通整理の行なわれていない交差点においては、その通行している道路が優先道路（道路標識等により優先道路として指定されているもの及び当該交差点において当該道路における車両の通行を規制する道路標識等による中央線又は車両通行帯が設けられている道路をいう。以下同じ。）である場合を除き、交差道路が優先道路であるとき、又はその通行している道路の幅員よりも交差道路の幅員が明らかに広いものであるときは、当該交差道路を通行する車両等の進行妨害をしてはならない。
 ３　車両等（優先道路を通行している車両等を除く。）は、交通整理の行なわれていない交差点に入ろうとする場合において、交差道路が優先道路であるとき、又はその通行している道路の幅員よりも交差道路の幅員が明らかに広いものであるときは、徐行しなければならない。
 ４　車両等は、交差点に入ろうとし、及び交差点内を通行するときは、当該交差点の状況に応じ、交差道路を通行する車両等、反対方向から進行してきて右折する車両等及び当該交差点又はその直近で道路を横断する歩行者に特に注意し、かつ、できる限り安全な速度と方法で進行しなければならない。
-（罰則　第一項については第百二十条第一項第二号　第二項から第四項までについては第百十九条第一項第六号）
-```
 
+（罰則　第一項については第百二十条第一項第二号　第二項から第四項までについては第百十九条第一項第六号）
+</pre>
+</div>
 
 環状交差点通行車妨害等
 §37の2-1・2
@@ -492,41 +400,77 @@ $34-6
 交差点等進入禁止違反
 §50-1・2
 
+無灯火
+§52-1
+
+減光等義務違反
+§52-2
+
+合図不履行
 [合図不履行](R_rules_053.md)
 
-まだ
-放置駐車違反
-駐停車違反
+合図制限違反
+§53-4
 
+警音器吹鳴義務違反
+§54-1
+
+乗車積載方法違反
+§55-1・2
+
+軽車両整備不良
+§62
+
+自転車制動装置不良
+§63-91
+
+泥はね運転
+§71 (1)
+
+転落等防止措置義務違反
+§71 (4)
+
+転落積載物等危険防止措置義務違反
+§71 (4) 0 2
+
+安全不確認ドア開放等
+§71 (4) の3
+
+停止措置義務違反
+§71 (5)
+
+公安委員会遵守事項違反
+§71 (6)
+
+まだ
+放置駐車違反 9,000円～
+
+駐停車違反 6,000円～
+
+3,000円
+
+重大な違反　数万円～
 
 ## 装備とか
 
 ライトとか
 
 
-
 #### 5,000円　テンプレ
 - 意訳
-- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
+- <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ </a></div>
 <div id="numXX" style="display:none;clear:both;">
 <pre>
 ああああ
 </pre>
 </div>
 <br />
-
-<!-- クリックすると展開表示する"折りたたみメニュー"を簡単に作る方法 https://fukafuka295.jp/oritatami-menu-setti/ -->
-<!--
-<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼</a></div>
-<div id="numXX" style="display:none;clear:both;">
-<pre>
-ああああ
-</pre>
-</div>
-<br />
--->
 
 <hr />
+<!-- クリックすると展開表示する"折りたたみメニュー"を簡単に作る方法 https://fukafuka295.jp/oritatami-menu-setti/ -->
+編集談話：テーブルタグ、リスト、注釈、トースト、iframe、textarea、、、アコーディオンメニューだ！ シンプルでめっちゃ気に入ってます
+
+<!--
 残骸。あとで消す
 
 ## みずれえｗ
@@ -560,3 +504,4 @@ $34-6
 これさあ、ふと思ったんだけど、フレーム分割するとよさそうじゃね？　〇〇違反をずら～～っと書いて、条文はフレームへ表示する・・。markdownのレベルでは無理か？ なんかもうこうなると昔のホムペのほうがよかったよなｗｗ
 
 ・・iframe、textarea、・・クリックで開閉 アコーディオンメニュー・リストでついにＦｉｘか！？！
+-->
