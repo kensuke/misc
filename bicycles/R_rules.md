@@ -12,9 +12,13 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 ## 踏切、電車関係
 
-#### 7,000円　遮断踏切立入り
+▼ §33-2
+
+<div onclick="obj=document.getElementById('num33').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">
+#### 7,000円　第三十三条　遮断踏切立入り
+</a></div>
+
 - 入っちゃだめ
-- <div onclick="obj=document.getElementById('num33').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §33-2</a></div>
 <div id="num33" style="display:none;clear:both;">
 <pre>
 （踏切の通過）
@@ -29,7 +33,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 6,000円　踏切不停止等
+#### 6,000円　第三十三条　踏切不停止等
 - 意訳
 - §33-1
 
@@ -51,7 +55,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 ## 走行中
 
-#### 12,000円　携帯電話使用等(保持)
+#### 12,000円　第七十一条　携帯電話使用等(保持)
 - 動いてるときは携帯電話使用禁止
 - 根拠は？ 六月以下の拘禁刑又は十万円以下・・は車？
 - <div onclick="obj=document.getElementById('num71').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §71 (5)の5</a></div>
@@ -71,12 +75,12 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 重大　30万円以下　携帯電話使用等 (交通の危険)
+#### 重大　30万円以下　第七十一条　携帯電話使用等 (交通の危険)
 - 1年以下の拘禁刑又は30万円以下の罰金
 - § 71 (5)の5
 
 
-#### 6,000～12,000円　速度超過
+#### 6,000～12,000円　第二十二条　速度超過
 - 意訳
 - 超過速度レンジにより可変
   - 30km/h以上の場合: ？ そういうとこだぞ
@@ -99,11 +103,11 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000～6,000円　信号無視
+#### 5,000～6,000円　第七条　信号無視
 - 意訳
 - 6,000円　※点滅信号を無視した場合は5,000円
 - <div onclick="obj=document.getElementById('num7').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ § 7</a></div>
-<div id="num7X" style="display:none;clear:both;">
+<div id="num7" style="display:none;clear:both;">
 <pre>
 （信号機の信号等に従う義務）
 第七条　道路を通行する歩行者等又は車両等は、信号機の表示する信号又は警察官等の手信号等（前条第一項後段の場合においては、当該手信号等）に従わなければならない。
@@ -124,9 +128,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 二　第四条（公安委員会の交通規制）第一項後段に規定する警察官の現場における指示若しくは第六条（警察官等の交通規制）第四項の規定による警察官の禁止若しくは制限に従わず、又は第七条（信号機の信号等に従う義務）若しくは第八条（通行の禁止等）第一項の規定の違反となるような行為をした者（当該行為が遠隔操作型小型車の遠隔操作による通行に関して行われた場合に限る。）</pre>
 </div>
 
-#### 6,000円　通行区分違反
+#### 6,000円　第十七条　通行区分違反
 - （これかあｗ）
-- 6,000円
 - <div onclick="obj=document.getElementById('num17').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §17-1, 2、 §17-4, 6</a></div>
 <div id="num17" style="display:none;clear:both;">
 <pre>
@@ -151,7 +154,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 6,000円　追越し違反
+#### 6,000円　第二十八条　追越し違反
 - 意訳
 - <div onclick="obj=document.getElementById('num28').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §28 1-4、§29、§30</a></div>
 <div id="num28" style="display:none;clear:both;">
@@ -179,7 +182,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 6,000円　交差点安全進行義務違反
+#### 6,000円　第三十六条　交差点安全進行義務違反
 - ご安全に
 - <div onclick="obj=document.getElementById('num36').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-4</a></div>
 <div id="num36" style="display:none;clear:both;">
@@ -196,7 +199,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 6,000円　環状交差点安全進行義務違反
+#### 6,000円　第三十七条　環状交差点安全進行義務違反
 - 意訳
 - <div onclick="obj=document.getElementById('num37').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §37の2-3</a></div>
 <div id="num37" style="display:none;clear:both;">
@@ -210,7 +213,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 6,000円　横断歩行者等妨害等
+#### 6,000円　第三十八条　横断歩行者等妨害等
 - 意訳
 - <div onclick="obj=document.getElementById('num38').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §38 1-3、§38-2</a></div>
 <div id="num38" style="display:none;clear:both;">
@@ -229,7 +232,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 6,000円　安全運転義務違反
+#### 6,000円　第七十条　安全運転義務違反
 - （なんかもう、この１文だけでよくね？ｗ）
 - <div onclick="obj=document.getElementById('num70').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §70
 </a></div>
@@ -242,7 +245,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000円　通行禁止違反
+#### 5,000円　第八条　通行禁止違反
 - 意訳
 - <div onclick="obj=document.getElementById('num8').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §8-1</a></div>
 <div id="num8" style="display:none;clear:both;">
@@ -262,7 +265,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000円　歩行者用道路徐行違反
+#### 5,000円　第九条　歩行者用道路徐行違反
 - 意訳
 - <div onclick="obj=document.getElementById('num9').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §9</a></div>
 <div id="num9" style="display:none;clear:both;">
@@ -274,7 +277,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000円　歩行者等側方通過義務違反
+#### 5,000円　第十八条　歩行者等側方通過義務違反
 - 意訳
 - <div onclick="obj=document.getElementById('num18').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §18-2</a></div>
 <div id="num18" style="display:none;clear:both;">
@@ -287,7 +290,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000円　急ブレーキ禁止違反
+#### 5,000円　第二十四条　急ブレーキ禁止違反
 - 意訳
 - <div onclick="obj=document.getElementById('num24').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §24
 </a></div>
@@ -299,9 +302,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 （罰則　第百十七条の二第一項第四号、第百十七条の二の二第一項第八号ロ、第百十九条第一項第三号）
 </pre>
 </div>
-<br />
 
-#### 5,000円　法定横断等禁止違反
+#### 5,000円　第二十五条　法定横断等禁止違反
 - 意訳
 - <div onclick="obj=document.getElementById('num25').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §25の2-1</a></div>
 <div id="num25" style="display:none;clear:both;">
@@ -314,7 +316,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000円　路面電車後方不停止
+#### 5,000円　第三十一条　路面電車後方不停止
 - 意訳
 - <div onclick="obj=document.getElementById('num31').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §31</a></div>
 <div id="num31" style="display:none;clear:both;">
@@ -326,7 +328,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000円　優先道路通行車妨害等
+#### 5,000円　第三十六条　優先道路通行車妨害等
 - 意訳
 - <div onclick="obj=document.getElementById('num36').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-2・3</a></div>
 <div id="num36" style="display:none;clear:both;">
@@ -456,7 +458,7 @@ $34-6
 ライトとか
 
 
-#### 5,000円　テンプレ
+#### 5,000円　第ＸＸ条　テンプレ
 - 意訳
 - <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ </a></div>
 <div id="numXX" style="display:none;clear:both;">
@@ -468,7 +470,7 @@ $34-6
 
 <hr />
 <!-- クリックすると展開表示する"折りたたみメニュー"を簡単に作る方法 https://fukafuka295.jp/oritatami-menu-setti/ -->
-編集談話：テーブルタグ、リスト、注釈、トースト、iframe、textarea、、、アコーディオンメニューだ！ シンプルでめっちゃ気に入ってます
+編集後記（レイアウト履歴）：テーブルタグ、リスト、注釈、（トースト）、iframe、textarea、、、アコーディオンメニューだ！ コードがシンプルでめっちゃ気に入ってます
 
 <!--
 残骸。あとで消す
