@@ -83,7 +83,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 場　｜　↑ ┃
 　　｜　◇┃
 ```
-歩行者 ｖｓ 自転車 ファイッ
+歩行者 ｖｓ 自転車 ファイッ<br />
+自転車が迷惑なのは認めるが、だからといって、原則車道は無理。歩行者の協力も必要だろう。
 <br />
 <br />
 
@@ -109,3 +110,19 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
   - げんじつ３）歩道の車道寄りを自転車通行してたら、歩行者がー
   - げんじつ４）じゃあって歩行者を歩道の左端へもってきたら・・
 <br />
+
+### 全パターン
+```
+ ｜　　┃
+ ｜〇　┃
+□｜◇　┃□
+ ｜　　┃
+ ｜〇　┃
+□｜　◇┃□
+ ｜　　┃
+ ｜　〇┃
+□｜◇　┃□
+ ｜　　┃
+ ｜　〇┃
+□｜　◇┃□
+```
