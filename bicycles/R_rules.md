@@ -12,13 +12,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 ## 踏切、電車関係
 
-▼ §33-2
-
-<div onclick="obj=document.getElementById('num33').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">
 #### 7,000円　第三十三条　遮断踏切立入り
-</a></div>
-
-- 入っちゃだめ
+<div onclick="obj=document.getElementById('num33').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §33-2</a> 入っちゃだめ</div> 
 <div id="num33" style="display:none;clear:both;">
 <pre>
 （踏切の通過）
@@ -54,6 +49,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 -->
 
 ## 走行中
+（分類まだ）
 
 #### 12,000円　第七十一条　携帯電話使用等(保持)
 - 動いてるときは携帯電話使用禁止
@@ -184,8 +180,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 #### 6,000円　第三十六条　交差点安全進行義務違反
 - ご安全に
-- <div onclick="obj=document.getElementById('num36').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-4</a></div>
-<div id="num36" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num364').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-4</a></div>
+<div id="num364" style="display:none;clear:both;">
 <pre>
 （交差点における他の車両等との関係等）
 第三十六条　車両等は、交通整理の行なわれていない交差点においては、次項の規定が適用される場合を除き、次の各号に掲げる区分に従い、当該各号に掲げる車両等の進行妨害をしてはならない。
@@ -330,8 +326,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 #### 5,000円　第三十六条　優先道路通行車妨害等
 - 意訳
-- <div onclick="obj=document.getElementById('num36').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-2・3</a></div>
-<div id="num36" style="display:none;clear:both;">
+- <div onclick="obj=document.getElementById('num362').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-2・3</a></div>
+<div id="num362" style="display:none;clear:both;">
 <pre>
 （交差点における他の車両等との関係等）
 第三十六条　車両等は、交通整理の行なわれていない交差点においては、次項の規定が適用される場合を除き、次の各号に掲げる区分に従い、当該各号に掲げる車両等の進行妨害をしてはならない。
@@ -408,7 +404,6 @@ $34-6
 減光等義務違反
 §52-2
 
-合図不履行
 [合図不履行](R_rules_053.md)
 
 合図制限違反
@@ -452,6 +447,8 @@ $34-6
 3,000円
 
 重大な違反　数万円～
+
+## 交差点、横断歩道
 
 ## 装備とか
 
