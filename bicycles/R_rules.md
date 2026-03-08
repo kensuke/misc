@@ -8,12 +8,14 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ## リンク
 - [自転車の安全利用の促進](https://www.npa.go.jp/bureau/traffic/bicycle/index.html)（警察庁）
   - [「自転車を安全・安心に利用するために」（自転車ルールブック）の作成について](https://www.npa.go.jp/bureau/traffic/bicycle/pdf/rulebook.pdf)
+<br />
 
-
+（分類まだ / レイアウト適時見直し中）
 ## 踏切、電車関係
 
 #### 7,000円　第三十三条　遮断踏切立入り
-<div onclick="obj=document.getElementById('num33').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §33-2　入っちゃだめ</a></div><div id="num33" style="display:none;clear:both;">
+<div onclick="obj=document.getElementById('num33').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §33-2　入っちゃだめ</a></div>
+<div id="num33" style="display:none;clear:both;">
 <pre>
 （踏切の通過）
 第三十三条　車両等は、踏切を通過しようとするときは、踏切の直前（道路標識等による停止線が設けられているときは、その停止線の直前。以下この項において同じ。）で停止し、かつ、安全であることを確認した後でなければ進行してはならない。ただし、信号機の表示する信号に従うときは、踏切の直前で停止しないで進行することができる。
@@ -46,9 +48,9 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 [^1]: 第百十九条　次の各号のいずれかに該当する者は、三月以下の拘禁刑又は五万円以下の罰金に処する。<br />五　第三十条（追越しを禁止する場所）、第三十三条（踏切の通過）第一項若しくは第二項、第三十八条（横断歩道等における歩行者等の優先）、第四十二条（徐行すべき場所）又は第四十三条（指定場所における一時停止）の規定の違反となるような行為をした者<br />３　過失により第一項第二号、第五号（第四十三条後段に係る部分を除く。）、第十四号、第十六号若しくは第十九号又は前項第二号の罪を犯した者は、十万円以下の罰金に処する。<br />
 -->
+<br />
 
 ## 走行中
-（分類まだ）
 
 #### 12,000円　第七十一条　携帯電話使用等(保持)
 - 動いてるときは携帯電話使用禁止
@@ -98,7 +100,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-#### 5,000～6,000円　第七条　　　信号無視
+#### 5,000～6,000円　第七条　信号無視
 - 意訳
 - 6,000円　※点滅信号を無視した場合は5,000円
 - <div onclick="obj=document.getElementById('num7').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ § 7</a></div>
@@ -178,7 +180,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第三十六条　交差点安全進行義務違反
-- ご安全に
+- 意訳
 - <div onclick="obj=document.getElementById('num364').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-4</a></div>
 <div id="num364" style="display:none;clear:both;">
 <pre>
@@ -228,9 +230,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第七十条　　安全運転義務違反
-- （なんかもう、この１文だけでよくね？ｗ）
-- <div onclick="obj=document.getElementById('num70').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §70
-</a></div>
+<div onclick="obj=document.getElementById('num70').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;" title="初期状態で展開済み。気付いた？ｗ">▼ §70　（なんかもう、この１文だけでよくね？ｗ すべてを含んでると思うんだが）</a></div>
 <div id="num70" style="display:block;clear:both;"><!-- ここだけ初期値で表示ｗ -->
 <pre>
 （安全運転の義務）
@@ -439,6 +439,7 @@ $34-6
 §71 (6)
 
 まだ
+
 放置駐車違反 9,000円～
 
 駐停車違反 6,000円～
@@ -465,7 +466,7 @@ $34-6
 
 <hr />
 <!-- クリックすると展開表示する"折りたたみメニュー"を簡単に作る方法 https://fukafuka295.jp/oritatami-menu-setti/ -->
-編集後記（レイアウト履歴）：テーブルタグ、リスト、注釈、（トースト）、iframe、textarea、、、アコーディオンメニューだ！ コードがシンプルでめっちゃ気に入ってます
+編集後記（レイアウト履歴）：テーブルタグ、リスト（３行 意訳 反則金額 根拠条文番号）、注釈、（トースト）、iframe、textarea、、、アコーディオンメニューだ！ コードがシンプルでめっちゃ気に入ってます。反則金額をタイトルへ入れちゃうことでリストを２行へ。さらに、条文番号　意訳を１行へ集約し、ｌｉタグを除去！ｗ
 
 <!--
 残骸。あとで消す
