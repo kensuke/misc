@@ -117,12 +117,16 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
  ｜〇　┃
 □｜◇　┃□
  ｜　　┃
+ ｜　　┃
  ｜〇　┃
 □｜　◇┃□
+ ｜　　┃
  ｜　　┃
  ｜　〇┃
 □｜◇　┃□
  ｜　　┃
+ ｜　　┃
  ｜　〇┃
 □｜　◇┃□
+ ｜　　┃
 ```
