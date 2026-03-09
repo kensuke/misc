@@ -46,7 +46,6 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 
 [^1]: 第百十九条　次の各号のいずれかに該当する者は、三月以下の拘禁刑又は五万円以下の罰金に処する。<br />五　第三十条（追越しを禁止する場所）、第三十三条（踏切の通過）第一項若しくは第二項、第三十八条（横断歩道等における歩行者等の優先）、第四十二条（徐行すべき場所）又は第四十三条（指定場所における一時停止）の規定の違反となるような行為をした者<br />３　過失により第一項第二号、第五号（第四十三条後段に係る部分を除く。）、第十四号、第十六号若しくは第十九号又は前項第二号の罪を犯した者は、十万円以下の罰金に処する。<br />
 -->
-<br />
 
 ## 走行中
 
@@ -124,8 +123,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第十七条　　通行区分違反
-- （これかあｗ）
-- <div onclick="obj=document.getElementById('num17').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §17-1, 2、 §17-4, 6</a></div>
+<div onclick="obj=document.getElementById('num17').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §17-1, 2、 §17-4, 6</a>　（これかあｗ）</div>
 <div id="num17" style="display:none;clear:both;">
 <pre>
 （通行区分）
@@ -402,7 +400,8 @@ $34-6
 §52-2
 
 #### 5,000円　第五十三条　合図不履行
-<div onclick="obj=document.getElementById('num53').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 53-1,2　ウィンカー（的なるもの）が必要</a>　これ、個人的に、自転車は原則車道通行がー例外歩道通行がー・・よりも大きいと感じる。そのため、特設ページ [合図不履行](R_rules_053.md) を緊急作成ｗ</div>
+- <div onclick="obj=document.getElementById('num53').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 53-1,2　ウィンカー（的なるもの）が必要</a></div>
+- これ、個人的に、自転車は原則車道通行がー例外歩道通行がー・・よりも大きいと感じる。そのため、特設ページ [合図不履行](R_rules_053.md) を緊急作成ｗ
 <div id="num53" style="display:none;clear:both;">
 <pre>
 （合図）
@@ -478,7 +477,7 @@ $34-6
 
 <hr />
 <!-- クリックすると展開表示する"折りたたみメニュー"を簡単に作る方法 https://fukafuka295.jp/oritatami-menu-setti/ -->
-編集後記（レイアウト履歴）：①テーブルタグ、②リスト（３行 意訳 反則金額 根拠条文番号）、③注釈、（トースト）、④iframe、⑤textarea、、、⑥アコーディオンメニューだ！ コードがシンプルでめっちゃ気に入ってます。⑦反則金額をタイトルへ入れちゃうことでリストを２行へ。⑧さらに、条文番号　意訳を１行へ集約し、ｌｉタグを除去！ｗ
+編集後記（レイアウト履歴）：① テーブルタグ、　② リスト（３行 意訳 反則金額 根拠条文番号）、　③ 注釈、（トースト 検討のみ。未実装）、　④ iframe、⑤textarea、、、　⑥ アコーディオンメニューだ！ コードがシンプルでめっちゃ気に入ってます。　⑦ 反則金額をタイトルへ入れちゃうことでリストを２行へ、　⑧ さらに、条文番号　意訳を１行へ集約し、ｌｉタグを除去！ｗ
 
 <!--
 残骸。あとで消す
