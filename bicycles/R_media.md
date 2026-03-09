@@ -7,8 +7,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ２０２４年
 - ↓ [道路交通法の一部を改正する法律](https://hourei.ndl.go.jp/simple/detail?lawId=0000163397&current=-1)
   - 提出回次：第213回国会　　提出年月日：令和6年3月5日　　成立年月日：令和6年5月17日
-  - これは読みごたえありそう！
-  - [第213回国会](R_diet_213.md)　作ってみた
+  - これは読みごたえありそう！ ・・と思ったがそんなことはなかったｗ　[第213回国会](R_diet_213.md)
 - ↓ ５月２４日（令和６年）道路交通法の一部を改正する法律（令和６年法律第３４号）公布
 <br />
 
