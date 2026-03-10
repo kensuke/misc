@@ -15,16 +15,17 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 - [道路交通法](https://laws.e-gov.go.jp/law/335AC0000000105/20260401_506AC0000000034) 令和8年4月1日 施行 道路交通法の一部を改正する法律（令和六年法律第三十四号）
 - [道路交通法施行令](https://laws.e-gov.go.jp/law/335CO0000000270/20260401_507CO0000000222) 令和8年4月1日 施行 道路交通法施行令の一部を改正する政令（令和七年政令第二百二十二号）
   - 施行令ってなにかわからないが、施行令へ反則金一覧が記載されている
+  - （重大（刑事？）なやつ：道交法、重大でないやつ：施行令、、あとで調べる）
 - [放置・駐停車に関するもの以外の反則行為](https://www.keishicho.metro.tokyo.lg.jp/menkyo/torishimari/tetsuzuki/hansoku.html)（警視庁）
 <br />
 
 - 施行令改正前：４　「原付車」とは、小型特殊自動車及び原動機付自転車をいう。
 - 施行令改正後：４　「原付等」とは、小型特殊自動車、原動機付自転車及び軽車両（重被牽けん引車を除く。）をいう。
 
-今回の施行令改正で、軽車両（自転車）が追加された。が、施行令の反則金一覧表の表示がとても醜い。なので、警視庁の一覧表を見る。（警察庁ではなく。はあ）
+今回の施行令改正で、軽車両（自転車）が追加された。が、施行令の反則金一覧表の表示がとても醜い。なので、警視庁の一覧表を見る。（警察庁ではなく。はあ）で、自転車の反則金は従来の原付と同じと思っていいのかな？
 
 ![施行令](sikourei.jpg)
-それにつけても・・差分比較できて便利ｗ
+それにつけても・・ｅ－ｇｏｖ 差分比較できて便利ｗ
 <br />
 <br />
 
@@ -68,8 +69,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 ## 走行中
 
 #### 12,000円　第七十一条　携帯電話使用等(保持)
-- 動いてるときは携帯電話使用禁止
-- <div onclick="obj=document.getElementById('num71').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §71 (5)の5</a></div>
+<div onclick="obj=document.getElementById('num71').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §71 (5)の5　動いてるときは携帯電話使用禁止</a></div>
 <div id="num71" style="display:none;clear:both;">
 <pre>
 （運転者の遵守事項）
@@ -87,19 +87,16 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 重大　30万円以下　第七十一条　携帯電話使用等 (交通の危険)
-- 1年以下の拘禁刑又は30万円以下の罰金
-- § 71 (5)の5
-
+<div onclick="obj=document.getElementById('num71').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §71 (5)の5　1年以下の拘禁刑又は30万円以下の罰金</a></div>
 
 #### 6,000～12,000円　第二十二条　速度超過
-- 意訳
 - 超過速度レンジにより可変
   - 30km/h以上の場合: ？ そういうとこだぞ /（施行令 検索後）・・免停！？
   - 25km/h以上30km/h未満の場合: 12,000円
   - 20km/h以上25km/h未満の場合: 10,000円
   - 15km/h以上20km/h未満の場合: 7,000円
   - 15km/h未満の場合: 6,000円
-- <div onclick="obj=document.getElementById('num22').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §22-1</a></div>
+- <div onclick="obj=document.getElementById('num22').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §22-1　●●●</a></div>
 <div id="num22" style="display:none;clear:both;">
 <pre>
 （最高速度）
@@ -115,9 +112,8 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000～6,000円　第七条　信号無視
-- 意訳
 - 6,000円　※点滅信号を無視した場合は5,000円
-- <div onclick="obj=document.getElementById('num7').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ § 7</a></div>
+<div onclick="obj=document.getElementById('num7').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §7　●●●</a></div>
 <div id="num7" style="display:none;clear:both;">
 <pre>
 （信号機の信号等に従う義務）
@@ -140,7 +136,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第十七条　　通行区分違反
-<div onclick="obj=document.getElementById('num17').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §17-1, 2、 §17-4, 6</a>　（これかあｗ）</div>
+<div onclick="obj=document.getElementById('num17').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §17-1, 2、 §17-4, 6　●●●</a>　（これかあｗ）</div>
 <div id="num17" style="display:none;clear:both;">
 <pre>
 （通行区分）
@@ -165,8 +161,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第二十八条　追越し違反
-- 意訳
-- <div onclick="obj=document.getElementById('num28').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §28 1-4、§29、§30</a></div>
+<div onclick="obj=document.getElementById('num28').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §28 1-4、§29、§30　●●●</a></div>
 <div id="num28" style="display:none;clear:both;">
 <pre>
 （追越しの方法）
@@ -193,8 +188,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第三十六条　交差点安全進行義務違反
-- 意訳
-- <div onclick="obj=document.getElementById('num364').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-4</a></div>
+<div onclick="obj=document.getElementById('num364').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-4　●●●</a></div>
 <div id="num364" style="display:none;clear:both;">
 <pre>
 （交差点における他の車両等との関係等）
@@ -210,8 +204,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第三十七条　環状交差点安全進行義務違反
-- 意訳
-- <div onclick="obj=document.getElementById('num37').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §37の2-3</a></div>
+<div onclick="obj=document.getElementById('num37').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §37の2-3　●●●</a></div>
 <div id="num37" style="display:none;clear:both;">
 <pre>
 （環状交差点における他の車両等との関係等）
@@ -224,8 +217,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 6,000円　第三十八条　横断歩行者等妨害等
-- 意訳
-- <div onclick="obj=document.getElementById('num38').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §38 1-3、§38-2</a></div>
+<div onclick="obj=document.getElementById('num38').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §38 1-3、§38-2　●●●</a></div>
 <div id="num38" style="display:none;clear:both;">
 <pre>
 （横断歩道等における歩行者等の優先）
@@ -254,8 +246,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000円　第八条　　　通行禁止違反
-- 意訳
-- <div onclick="obj=document.getElementById('num8').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §8-1</a></div>
+<div onclick="obj=document.getElementById('num8').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §8-1　●●●</a></div>
 <div id="num8" style="display:none;clear:both;">
 <pre>
 （通行の禁止等）
@@ -274,8 +265,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000円　第九条　　　歩行者用道路徐行違反
-- 意訳
-- <div onclick="obj=document.getElementById('num9').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §9</a></div>
+<div onclick="obj=document.getElementById('num9').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §9　●●●</a></div>
 <div id="num9" style="display:none;clear:both;">
 <pre>
 （歩行者用道路を通行する車両の義務）
@@ -286,8 +276,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000円　第十八条　　歩行者等側方通過義務違反
-- 意訳
-- <div onclick="obj=document.getElementById('num18').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §18-2</a></div>
+<div onclick="obj=document.getElementById('num18').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §18-2　●●●</a></div>
 <div id="num18" style="display:none;clear:both;">
 <pre>
 （左側寄り通行等）
@@ -299,9 +288,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000円　第二十四条　急ブレーキ禁止違反
-- 意訳
-- <div onclick="obj=document.getElementById('num24').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §24
-</a></div>
+<div onclick="obj=document.getElementById('num24').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §24　●●●</a></div>
 <div id="num24" style="display:none;clear:both;">
 <pre>
 （急ブレーキの禁止）
@@ -312,8 +299,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000円　第二十五条　法定横断等禁止違反
-- 意訳
-- <div onclick="obj=document.getElementById('num25').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §25の2-1</a></div>
+<div onclick="obj=document.getElementById('num25').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §25の2-1　●●●</a></div>
 <div id="num25" style="display:none;clear:both;">
 <pre>
 （横断等の禁止）
@@ -325,8 +311,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000円　第三十一条　路面電車後方不停止
-- 意訳
-- <div onclick="obj=document.getElementById('num31').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §31</a></div>
+<div onclick="obj=document.getElementById('num31').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §31　●●●</a></div>
 <div id="num31" style="display:none;clear:both;">
 <pre>
 （停車中の路面電車がある場合の停止又は徐行）
@@ -337,8 +322,7 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </div>
 
 #### 5,000円　第三十六条　優先道路通行車妨害等
-- 意訳
-- <div onclick="obj=document.getElementById('num362').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-2・3</a></div>
+<div onclick="obj=document.getElementById('num362').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §36-2・3　●●●</a></div>
 <div id="num362" style="display:none;clear:both;">
 <pre>
 （交差点における他の車両等との関係等）
@@ -353,66 +337,213 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 </pre>
 </div>
 
-環状交差点通行車妨害等
-§37の2-1・2
+#### 5,000円　第三十七条　環状交差点通行車妨害等
+<div onclick="obj=document.getElementById('num372').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §37の2-1・2　●●●</a></div>
+<div id="num372" style="display:none;clear:both;">
+<pre>
+（環状交差点における他の車両等との関係等）
+第三十七条の二　車両等は、環状交差点においては、第三十六条第一項及び第二項並びに前条の規定にかかわらず、当該環状交差点内を通行する車両等の進行妨害をしてはならない。
+２　車両等は、環状交差点に入ろうとするときは、第三十六条第三項の規定にかかわらず、徐行しなければならない。
+３　車両等は、環状交差点に入ろうとし、及び環状交差点内を通行するときは、第三十六条第四項の規定にかかわらず、当該環状交差点の状況に応じ、当該環状交差点に入ろうとする車両等、当該環状交差点内を通行する車両等及び当該環状交差点又はその直近で道路を横断する歩行者に特に注意し、かつ、できる限り安全な速度と方法で進行しなければならない。
 
+（罰則　第百十九条第一項第六号）
+</pre>
+</div>
+
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+（徐行すべき場所）
+第四十二条　車両等は、道路標識等により徐行すべきことが指定されている道路の部分を通行する場合及び次に掲げるその他の場合においては、徐行しなければならない。
+一　左右の見とおしがきかない交差点に入ろうとし、又は交差点内で左右の見とおしがきかない部分を通行しようとするとき（当該交差点において交通整理が行なわれている場合及び優先道路を通行している場合を除く。）。
+二　道路のまがりかど附近、上り坂の頂上附近又は勾こう配の急な下り坂を通行するとき。
+（罰則　第百十九条第一項第五号、同条第三項）
+</pre>
+</div>
 徐行場所違反
 §42
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 指定場所一時不停止等
 §43
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 幼児等通行妨害
 §71 (2) (2) の3
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 安全地帯徐行違反
 §71 (3)
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 被側方通過車義務違反
 §18-4
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 通行帯違反
 §20-1~3
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 道路外出右左折合図車妨害
 §25-3
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 指定横断等禁止違反
 §25の2 2
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 車間距離不保持
 §26
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 進路変更禁止違反
 §26の2-2
 §26の2-3
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 追い付かれた車両の義務違反
 §27-1・2
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 乗合自動車発進妨害
 §31の2
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 割込み等
 §32
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 交差点右左折等合図車妨害
 $34-6
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 交差点優先車妨害
 §36-1
 §37
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 緊急車妨害等
 §40-1・2
 §41の2-1・2
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 交差点等進入禁止違反
 §50-1・2
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 無灯火
 §52-1
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 減光等義務違反
 §52-2
 
@@ -436,33 +567,103 @@ $34-6
 #### 5,000円　第五十三条　合図制限違反
 <div onclick="obj=document.getElementById('num53').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §53-4　右左折等終わったらウィンカーも終わる / 右左折等しないのに余計なウィンカー出しちゃだめ</a></div>
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 警音器吹鳴義務違反
 §54-1
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 乗車積載方法違反
 §55-1・2
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 軽車両整備不良
 §62
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 自転車制動装置不良
 §63-91
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 泥はね運転
 §71 (1)
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 転落等防止措置義務違反
 §71 (4)
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 転落積載物等危険防止措置義務違反
 §71 (4) 0 2
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 安全不確認ドア開放等
 §71 (4) の3
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 停止措置義務違反
 §71 (5)
 
+#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
+<div id="numXX" style="display:none;clear:both;">
+<pre>
+ああああ
+</pre>
+</div>
 公安委員会遵守事項違反
 §71 (6)
 
@@ -484,7 +685,7 @@ $34-6
 
 
 #### 5,000円　第ＸＸＸ条　ＹＹＹ違反
-<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ </a>　意訳</div>
+<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
 <div id="numXX" style="display:none;clear:both;">
 <pre>
 ああああ
