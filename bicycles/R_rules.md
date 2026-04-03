@@ -637,15 +637,32 @@ $34-6
 転落積載物等危険防止措置義務違反
 §71 (4) 0 2
 
-#### 5,000円　第ＸＸＸ条　ＹＹＹ違反
-<div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
-<div id="numXX" style="display:none;clear:both;">
+#### 5,000円　第七十一条　安全不確認ドア開放等
+<div onclick="obj=document.getElementById('num7143').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ §71 (4) の3</a></div>
+<div id="num7143" style="display:none;clear:both;">
 <pre>
-ああああ
+（運転者の遵守事項）
+第七十一条　車両等の運転者は、次に掲げる事項を守らなければならない。
+四の三　安全を確認しないで、ドアを開き、又は車両等から降りないようにし、及びその車両等に乗車している他の者がこれらの行為により交通の危険を生じさせないようにするため必要な措置を講ずること。
 </pre>
 </div>
-安全不確認ドア開放等
-§71 (4) の3
+
+（2026/4/3 疋田氏の動画 https://www.youtube.com/watch?v=gELzX8cdQbk より。はい。これさあ・・自動車だけの話だよなｗ バイクでもないのでは・・。・・と思ったが、ドアだけでなく下車もだからバイクも自転車も対象なのか！！ たしかに（特に後方）安全確認しないで、いきなり下車すると迷惑だもんな。深いな・・。安全不確認下車違反ってとこか。）
+
+<pre>
+安全を確認しないで、
+　ドアを開き、
+ 　　又は（ＯＲ）
+  車両等から降りないようにし、 
+  
+及び（ＡＮＤ）
+その車両等に乗車している他の者が　（同乗者だよね？）
+これらの行為　　　　　　　　　　　（ドア開・下車）
+により交通の危険を生じさせないようにする
+</pre>
+
+・・んんん？？？？ 及び以降の解釈ができねえ・・。これソロプレイなら安全不確認下車しても大丈夫ってこと？ まーた特設ページか？ｗ
+
 
 #### 5,000円　第ＸＸＸ条　ＹＹＹ違反
 <div onclick="obj=document.getElementById('numXX').style; obj.display=(obj.display=='none')?'block':'none';"><a style="cursor:pointer;">▼ 　●●●</a></div>
