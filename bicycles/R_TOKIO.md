@@ -64,3 +64,10 @@ https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E6%B4%8B%E6%A8%B9
 > 碑文谷八幡通り（大岡山小学校前から立会川緑道入口） <br />
 
 ウーバーはともかく、ストビューを・・（あとでやる）
+
+
+> 警視庁は、歩道での歩行者と自転車との事故の急増等を受け、歩行者の安全を確保するため、自転車の車道通行の原則を推進することとしました。これに伴い、「普通自転車歩道通行可」の標識が撤去されました。
+https://www.city.meguro.tokyo.jp/dobokukanri/bousaianzen/koutsuuanzen/bicycle_traffic_regulation_changes.html
+
+なんだネット民のデマか
+
