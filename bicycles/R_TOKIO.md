@@ -74,6 +74,7 @@ https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E6%B4%8B%E6%A8%B9
 <br />
 
 - 北区 https://www.city.kita.lg.jp/living/transport/1002510/1002514.html
+- 杉並区 https://www.city.suginami.tokyo.jp/s092/1556.html
 - 武蔵野市 https://www.city.musashino.lg.jp/kurashi_tetsuzuki/bus_churin_chusha_kotsuanzen/jitensha_churinjo/1048984.html
 - 清瀬市 https://www.city.kiyose.lg.jp/kurashi/bousai_anzen/1014615.html
 - 小平市 https://www.city.kodaira.tokyo.jp/kurashi/122/122467.html
@@ -81,3 +82,10 @@ https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E6%B4%8B%E6%A8%B9
 - 多摩市 https://www.city.tama.lg.jp/kurashi/anshin/koutsu/1018990.html
 
 ・・・。あれ、東京都だけルール変わったみたいだなｗ 東京都は基本的に普通自転車歩道通行可の標識ないのか・・。じゃあ、警視総監の答弁正しいじゃん。えええ
+
+<!--
+しゅごい。データどこから？
+https://x.com/toro24f/status/2040302014580855237
+
+https://roadbike-navi.xyz/archives/57412
+-->
