@@ -66,8 +66,18 @@ https://ja.wikipedia.org/wiki/%E7%AD%92%E4%BA%95%E6%B4%8B%E6%A8%B9
 ウーバーはともかく、ストビューを・・（あとでやる）
 
 
-> 警視庁は、歩道での歩行者と自転車との事故の急増等を受け、歩行者の安全を確保するため、自転車の車道通行の原則を推進することとしました。これに伴い、「普通自転車歩道通行可」の標識が撤去されました。
-https://www.city.meguro.tokyo.jp/dobokukanri/bousaianzen/koutsuuanzen/bicycle_traffic_regulation_changes.html
+> 警視庁は、歩道での歩行者と自転車との事故の急増等を受け、歩行者の安全を確保するため、自転車の車道通行の原則を推進することとしました。これに伴い、「普通自転車歩道通行可」の標識が撤去されました。<br />
+目黒区 https://www.city.meguro.tokyo.jp/dobokukanri/bousaianzen/koutsuuanzen/bicycle_traffic_regulation_changes.html
+<br />
 
-なんだネット民のデマか
+（ウーバーは）なんだネット民のデマか。とはいっても、ウーバーが原因で自転車事故が増えた・・とは言えないか・・。てか、ＬＵＵＰのせい？ｗ
+<br />
 
+- 北区 https://www.city.kita.lg.jp/living/transport/1002510/1002514.html
+- 武蔵野市 https://www.city.musashino.lg.jp/kurashi_tetsuzuki/bus_churin_chusha_kotsuanzen/jitensha_churinjo/1048984.html
+- 清瀬市 https://www.city.kiyose.lg.jp/kurashi/bousai_anzen/1014615.html
+- 小平市 https://www.city.kodaira.tokyo.jp/kurashi/122/122467.html
+- 府中市 https://www.city.fuchu.tokyo.jp/kurashi/sekatu/kotuanzen/kiseiDel.html
+- 多摩市 https://www.city.tama.lg.jp/kurashi/anshin/koutsu/1018990.html
+
+・・・。あれ、東京都だけルール変わったみたいだなｗ 東京都は基本的に普通自転車歩道通行可の標識ないのか・・。じゃあ、警視総監の答弁正しいじゃん。えええ
