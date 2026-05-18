@@ -55,6 +55,11 @@ URL: [http://kensuke.github.io/misc/bicycles/](http://kensuke.github.io/misc/bic
 <br />
 <br />
 
+
+### ５／１８　はい
+特になりもありませんでした・・。はあ・・
+
+
 ### ファイル構成
 - [ルールブック](on_sidewalks.html) 第六十三条の四を抜粋したもの<!--  - [html](https://github.com/kensuke/misc/blob/master/bicycles/on_sidewalks.html) （Pagesだとprivateになってしまう？ 課金？ / hubだとWebではなくhtmlソースとして解釈してしまう・・）-->
 - 印刷用PDF
